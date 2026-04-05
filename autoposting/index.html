@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8">
+  <title>AutoPosting MCP — italy-shop.eu</title>
+  <style>
+    body { font-family: -apple-system, sans-serif; max-width: 720px; margin: 40px auto; padding: 0 20px; color: #333; }
+    h1 { color: #4a3728; }
+    code { background: #f5f0eb; padding: 2px 6px; border-radius: 4px; font-size: 14px; }
+    pre { background: #f5f0eb; padding: 16px; border-radius: 8px; overflow-x: auto; }
+    .badge { font-size: 12px; color: #4a3728; background: #f0e8da; padding: 4px 12px; border-radius: 20px; display: inline-block; margin: 4px; }
+    a { color: #8b6f47; }
+  </style>
+</head>
+<body>
+  <h1>AutoPosting MCP</h1>
+  <p>Плагин для публикации товаров на <a href="https://italy-shop.eu">italy-shop.eu</a> через Claude Desktop.</p>
+
+  <div>
+    <span class="badge">v0.1.0</span>
+    <span class="badge">Python 3.11+</span>
+    <span class="badge">Claude Desktop</span>
+  </div>
+
+  <h2>Быстрая установка (macOS/Linux)</h2>
+  <pre>curl -fsSL https://feed.italy-shop.eu/autoposting//install.sh | bash</pre>
+
+  <h2>Ручная установка</h2>
+  <ol>
+    <li>Скачай <a href="autoposting_mcp-0.1.0-py3-none-any.whl">autoposting_mcp-0.1.0-py3-none-any.whl</a></li>
+    <li>Создай venv: <code>python3 -m venv ~/.autoposting-mcp</code></li>
+    <li>Установи: <code>~/.autoposting-mcp/bin/pip install autoposting_mcp-0.1.0-py3-none-any.whl</code></li>
+    <li>Добавь в Claude Desktop config (см. ниже)</li>
+  </ol>
+
+  <h2>Claude Desktop Config</h2>
+  <pre>{
+  "mcpServers": {
+    "autoposting": {
+      "command": "~/.autoposting-mcp/bin/python",
+      "args": ["-m", "autoposting"],
+      "env": {
+        "SKYSHOP_API_KEY": "YOUR_API_KEY"
+      }
+    }
+  }
+}</pre>
+
+  <h2>Инструменты</h2>
+  <ul>
+    <li><code>process_images</code> — сжатие фото в WebP</li>
+    <li><code>get_skyshop_options</code> — цвета и размеры из Sky-shop</li>
+    <li><code>get_categories</code> — дерево категорий</li>
+    <li><code>get_brand_catalog</code> — каталог бренда</li>
+    <li><code>publish_product</code> — публикация товара</li>
+  </ul>
+</body>
+</html>
