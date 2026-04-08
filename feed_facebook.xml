@@ -1689,7 +1689,7 @@
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Baletki-Lestrosa_%5B5951%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Baletki-Lestrosa_%5B5963%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Baletki-Lestrosa_%5B5964%5D_1200.jpg</g:additional_image_link>
-      <g:price>750.00 PLN</g:price>
+      <g:price>600.00 PLN</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>L'estrosa</g:brand>
@@ -2298,7 +2298,7 @@
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Botki-Wiola_%5B5339%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Botki-Wiola_%5B5510%5D_1200.jpg</g:additional_image_link>
       <g:price>872.00 PLN</g:price>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>L'estrosa</g:brand>
       <g:google_product_category>187</g:google_product_category>
@@ -3752,30 +3752,6 @@
       <g:size>40</g:size>
     </item>
     <item>
-      <g:id>191_52_44</g:id>
-      <g:item_group_id>191</g:item_group_id>
-      <title>Eleganckie kozaki Spaziomoda</title>
-      <description>Zamszowe kozaki Spaziomoda w odcieniu cappuccino z charakterystycznym marszczeniem. Miękki zamsz naturalny, szpiczasty nos i subtelny obcas kitten heel.</description>
-      <link>https://www.italy-shop.eu/Eleganckie-kozaki-Spaziomoda-p191</link>
-      <g:image_link>https://www.italy-shop.eu/images/ly453/3000-4000/Eleganckie-kozaki-Spaziomoda_%5B3856%5D_1200.jpg</g:image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/3000-4000/Eleganckie-kozaki-Spaziomoda_%5B3855%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/3000-4000/Eleganckie-kozaki-Spaziomoda_%5B3856%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/3000-4000/Eleganckie-kozaki-Spaziomoda_%5B3857%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/3000-4000/Eleganckie-kozaki-Spaziomoda_%5B3858%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/3000-4000/Eleganckie-kozaki-Spaziomoda_%5B3859%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/3000-4000/Eleganckie-kozaki-Spaziomoda_%5B3860%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Eleganckie-kozaki-Spaziomoda_%5B4576%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Eleganckie-kozaki-Spaziomoda_%5B4577%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Eleganckie-kozaki-Spaziomoda_%5B4578%5D_1200.jpg</g:additional_image_link>
-      <g:price>1390.00 PLN</g:price>
-      <g:availability>out of stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Spaziomoda</g:brand>
-      <g:google_product_category>187</g:google_product_category>
-      <g:color>Brązowy</g:color>
-      <g:size>40</g:size>
-    </item>
-    <item>
       <g:id>191_67_44</g:id>
       <g:item_group_id>191</g:item_group_id>
       <title>Eleganckie kozaki Spaziomoda</title>
@@ -3800,7 +3776,7 @@
       <g:size>40</g:size>
     </item>
     <item>
-      <g:id>191_52_63</g:id>
+      <g:id>191_52_44</g:id>
       <g:item_group_id>191</g:item_group_id>
       <title>Eleganckie kozaki Spaziomoda</title>
       <description>Zamszowe kozaki Spaziomoda w odcieniu cappuccino z charakterystycznym marszczeniem. Miękki zamsz naturalny, szpiczasty nos i subtelny obcas kitten heel.</description>
@@ -3821,7 +3797,7 @@
       <g:brand>Spaziomoda</g:brand>
       <g:google_product_category>187</g:google_product_category>
       <g:color>Brązowy</g:color>
-      <g:size>41</g:size>
+      <g:size>40</g:size>
     </item>
     <item>
       <g:id>191_59_63</g:id>
@@ -3845,6 +3821,30 @@
       <g:brand>Spaziomoda</g:brand>
       <g:google_product_category>187</g:google_product_category>
       <g:color>Karmel</g:color>
+      <g:size>41</g:size>
+    </item>
+    <item>
+      <g:id>191_52_63</g:id>
+      <g:item_group_id>191</g:item_group_id>
+      <title>Eleganckie kozaki Spaziomoda</title>
+      <description>Zamszowe kozaki Spaziomoda w odcieniu cappuccino z charakterystycznym marszczeniem. Miękki zamsz naturalny, szpiczasty nos i subtelny obcas kitten heel.</description>
+      <link>https://www.italy-shop.eu/Eleganckie-kozaki-Spaziomoda-p191</link>
+      <g:image_link>https://www.italy-shop.eu/images/ly453/3000-4000/Eleganckie-kozaki-Spaziomoda_%5B3856%5D_1200.jpg</g:image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/3000-4000/Eleganckie-kozaki-Spaziomoda_%5B3855%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/3000-4000/Eleganckie-kozaki-Spaziomoda_%5B3856%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/3000-4000/Eleganckie-kozaki-Spaziomoda_%5B3857%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/3000-4000/Eleganckie-kozaki-Spaziomoda_%5B3858%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/3000-4000/Eleganckie-kozaki-Spaziomoda_%5B3859%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/3000-4000/Eleganckie-kozaki-Spaziomoda_%5B3860%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Eleganckie-kozaki-Spaziomoda_%5B4576%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Eleganckie-kozaki-Spaziomoda_%5B4577%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Eleganckie-kozaki-Spaziomoda_%5B4578%5D_1200.jpg</g:additional_image_link>
+      <g:price>1390.00 PLN</g:price>
+      <g:availability>out of stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Spaziomoda</g:brand>
+      <g:google_product_category>187</g:google_product_category>
+      <g:color>Brązowy</g:color>
       <g:size>41</g:size>
     </item>
     <item>
@@ -5433,30 +5433,6 @@
       <g:size>38</g:size>
     </item>
     <item>
-      <g:id>169_47_42</g:id>
-      <g:item_group_id>169</g:item_group_id>
-      <title>Klapki L'estrosa Siena</title>
-      <description>Cytrynowe klapki na szpilce 7 cm ze skóry naturalnej o subtelnej fakturze. Minimalistyczny szeroki pas i ostry nosek podkreślają elegancję stopy.</description>
-      <link>https://www.italy-shop.eu/Klapki-Lestrosa-Siena-p169</link>
-      <g:image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Siena_%5B5749%5D_1200.jpg</g:image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Siena_%5B5833%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Siena_%5B5835%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Siena_%5B5749%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Siena_%5B5750%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Siena_%5B5844%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Siena_%5B5751%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Siena_%5B5752%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Siena_%5B5753%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Siena_%5B5755%5D_1200.jpg</g:additional_image_link>
-      <g:price>720.00 PLN</g:price>
-      <g:availability>out of stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>L'estrosa</g:brand>
-      <g:google_product_category>187</g:google_product_category>
-      <g:color>Beżowy</g:color>
-      <g:size>38</g:size>
-    </item>
-    <item>
       <g:id>169_53_42</g:id>
       <g:item_group_id>169</g:item_group_id>
       <title>Klapki L'estrosa Siena</title>
@@ -5478,6 +5454,30 @@
       <g:brand>L'estrosa</g:brand>
       <g:google_product_category>187</g:google_product_category>
       <g:color>Różowy</g:color>
+      <g:size>38</g:size>
+    </item>
+    <item>
+      <g:id>169_47_42</g:id>
+      <g:item_group_id>169</g:item_group_id>
+      <title>Klapki L'estrosa Siena</title>
+      <description>Cytrynowe klapki na szpilce 7 cm ze skóry naturalnej o subtelnej fakturze. Minimalistyczny szeroki pas i ostry nosek podkreślają elegancję stopy.</description>
+      <link>https://www.italy-shop.eu/Klapki-Lestrosa-Siena-p169</link>
+      <g:image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Siena_%5B5749%5D_1200.jpg</g:image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Siena_%5B5833%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Siena_%5B5835%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Siena_%5B5749%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Siena_%5B5750%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Siena_%5B5844%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Siena_%5B5751%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Siena_%5B5752%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Siena_%5B5753%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Siena_%5B5755%5D_1200.jpg</g:additional_image_link>
+      <g:price>720.00 PLN</g:price>
+      <g:availability>out of stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>L'estrosa</g:brand>
+      <g:google_product_category>187</g:google_product_category>
+      <g:color>Beżowy</g:color>
       <g:size>38</g:size>
     </item>
     <item>
@@ -7453,30 +7453,6 @@
       <g:size>36</g:size>
     </item>
     <item>
-      <g:id>291_52_40</g:id>
-      <g:item_group_id>291</g:item_group_id>
-      <title>Klapki L'estrosa zamsz</title>
-      <description>Szpiczaste klapki na obcasie z miękkiego zamszowego zamszu w kolorze karmel. Włoska skóra naturalna dopasowuje się do stopy, zapewniając komfort przez cały dzień.</description>
-      <link>https://www.italy-shop.eu/Klapki-Lestrosa-zamsz-p291</link>
-      <g:image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-zamsz_%5B4724%5D_1200.jpg</g:image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-zamsz_%5B4845%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-zamsz_%5B4846%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-zamsz_%5B4847%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-zamsz_%5B4724%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-zamsz_%5B5072%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-zamsz_%5B5073%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-zamsz_%5B4849%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-zamsz_%5B4850%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-zamsz_%5B4851%5D_1200.jpg</g:additional_image_link>
-      <g:price>790.00 PLN</g:price>
-      <g:availability>out of stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>L'estrosa</g:brand>
-      <g:google_product_category>187</g:google_product_category>
-      <g:color>Brązowy</g:color>
-      <g:size>36</g:size>
-    </item>
-    <item>
       <g:id>291_57_40</g:id>
       <g:item_group_id>291</g:item_group_id>
       <title>Klapki L'estrosa zamsz</title>
@@ -7498,6 +7474,30 @@
       <g:brand>L'estrosa</g:brand>
       <g:google_product_category>187</g:google_product_category>
       <g:color>Pudrowy</g:color>
+      <g:size>36</g:size>
+    </item>
+    <item>
+      <g:id>291_52_40</g:id>
+      <g:item_group_id>291</g:item_group_id>
+      <title>Klapki L'estrosa zamsz</title>
+      <description>Szpiczaste klapki na obcasie z miękkiego zamszowego zamszu w kolorze karmel. Włoska skóra naturalna dopasowuje się do stopy, zapewniając komfort przez cały dzień.</description>
+      <link>https://www.italy-shop.eu/Klapki-Lestrosa-zamsz-p291</link>
+      <g:image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-zamsz_%5B4724%5D_1200.jpg</g:image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-zamsz_%5B4845%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-zamsz_%5B4846%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-zamsz_%5B4847%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-zamsz_%5B4724%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-zamsz_%5B5072%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-zamsz_%5B5073%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-zamsz_%5B4849%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-zamsz_%5B4850%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-zamsz_%5B4851%5D_1200.jpg</g:additional_image_link>
+      <g:price>790.00 PLN</g:price>
+      <g:availability>out of stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>L'estrosa</g:brand>
+      <g:google_product_category>187</g:google_product_category>
+      <g:color>Brązowy</g:color>
       <g:size>36</g:size>
     </item>
     <item>
@@ -10599,30 +10599,6 @@
       <g:size>37</g:size>
     </item>
     <item>
-      <g:id>299_59_42</g:id>
-      <g:item_group_id>299</g:item_group_id>
-      <title>Kozaki na obcasie L'estrosa</title>
-      <description>Zamszowe kozaki na obcasie z miękkiej skóry naturalnej. Smukła cholewka do kostki, elegancki obcas 8 cm. Włoskie rzemiosło L'estrosa w odcieniach beżu, brązu i szarości.</description>
-      <link>https://www.italy-shop.eu/Kozaki-na-obcasie-Lestrosa-p299</link>
-      <g:image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Kozaki-na-obcasie-Lestrosa_%5B5708%5D_1200.jpg</g:image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-kozaki-na-obcasie-Lestrosa_%5B5358%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-kozaki-na-obcasie-Lestrosa_%5B5359%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-kozaki-na-obcasie-Lestrosa_%5B5255%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-kozaki-na-obcasie-Lestrosa_%5B5256%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-kozaki-na-obcasie-Lestrosa_%5B5257%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-kozaki-na-obcasie-Lestrosa_%5B5360%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-kozaki-na-obcasie-Lestrosa_%5B5361%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-kozaki-na-obcasie-Lestrosa_%5B5362%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-kozaki-na-obcasie-Lestrosa_%5B5363%5D_1200.jpg</g:additional_image_link>
-      <g:price>950.00 PLN</g:price>
-      <g:availability>out of stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>L'estrosa</g:brand>
-      <g:google_product_category>187</g:google_product_category>
-      <g:color>Karmel</g:color>
-      <g:size>38</g:size>
-    </item>
-    <item>
       <g:id>299_52_42</g:id>
       <g:item_group_id>299</g:item_group_id>
       <title>Kozaki na obcasie L'estrosa</title>
@@ -10647,6 +10623,30 @@
       <g:size>38</g:size>
     </item>
     <item>
+      <g:id>299_59_42</g:id>
+      <g:item_group_id>299</g:item_group_id>
+      <title>Kozaki na obcasie L'estrosa</title>
+      <description>Zamszowe kozaki na obcasie z miękkiej skóry naturalnej. Smukła cholewka do kostki, elegancki obcas 8 cm. Włoskie rzemiosło L'estrosa w odcieniach beżu, brązu i szarości.</description>
+      <link>https://www.italy-shop.eu/Kozaki-na-obcasie-Lestrosa-p299</link>
+      <g:image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Kozaki-na-obcasie-Lestrosa_%5B5708%5D_1200.jpg</g:image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-kozaki-na-obcasie-Lestrosa_%5B5358%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-kozaki-na-obcasie-Lestrosa_%5B5359%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-kozaki-na-obcasie-Lestrosa_%5B5255%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-kozaki-na-obcasie-Lestrosa_%5B5256%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-kozaki-na-obcasie-Lestrosa_%5B5257%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-kozaki-na-obcasie-Lestrosa_%5B5360%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-kozaki-na-obcasie-Lestrosa_%5B5361%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-kozaki-na-obcasie-Lestrosa_%5B5362%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-kozaki-na-obcasie-Lestrosa_%5B5363%5D_1200.jpg</g:additional_image_link>
+      <g:price>950.00 PLN</g:price>
+      <g:availability>out of stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>L'estrosa</g:brand>
+      <g:google_product_category>187</g:google_product_category>
+      <g:color>Karmel</g:color>
+      <g:size>38</g:size>
+    </item>
+    <item>
       <g:id>299_53_42</g:id>
       <g:item_group_id>299</g:item_group_id>
       <title>Kozaki na obcasie L'estrosa</title>
@@ -10668,30 +10668,6 @@
       <g:brand>L'estrosa</g:brand>
       <g:google_product_category>187</g:google_product_category>
       <g:color>Różowy</g:color>
-      <g:size>38</g:size>
-    </item>
-    <item>
-      <g:id>299_47_42</g:id>
-      <g:item_group_id>299</g:item_group_id>
-      <title>Kozaki na obcasie L'estrosa</title>
-      <description>Zamszowe kozaki na obcasie z miękkiej skóry naturalnej. Smukła cholewka do kostki, elegancki obcas 8 cm. Włoskie rzemiosło L'estrosa w odcieniach beżu, brązu i szarości.</description>
-      <link>https://www.italy-shop.eu/Kozaki-na-obcasie-Lestrosa-p299</link>
-      <g:image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-kozaki-na-obcasie-Lestrosa_%5B5255%5D_1200.jpg</g:image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-kozaki-na-obcasie-Lestrosa_%5B5358%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-kozaki-na-obcasie-Lestrosa_%5B5359%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-kozaki-na-obcasie-Lestrosa_%5B5255%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-kozaki-na-obcasie-Lestrosa_%5B5256%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-kozaki-na-obcasie-Lestrosa_%5B5257%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-kozaki-na-obcasie-Lestrosa_%5B5360%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-kozaki-na-obcasie-Lestrosa_%5B5361%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-kozaki-na-obcasie-Lestrosa_%5B5362%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-kozaki-na-obcasie-Lestrosa_%5B5363%5D_1200.jpg</g:additional_image_link>
-      <g:price>950.00 PLN</g:price>
-      <g:availability>out of stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>L'estrosa</g:brand>
-      <g:google_product_category>187</g:google_product_category>
-      <g:color>Beżowy</g:color>
       <g:size>38</g:size>
     </item>
     <item>
@@ -10740,6 +10716,30 @@
       <g:brand>L'estrosa</g:brand>
       <g:google_product_category>187</g:google_product_category>
       <g:color>Niebieski</g:color>
+      <g:size>38</g:size>
+    </item>
+    <item>
+      <g:id>299_47_42</g:id>
+      <g:item_group_id>299</g:item_group_id>
+      <title>Kozaki na obcasie L'estrosa</title>
+      <description>Zamszowe kozaki na obcasie z miękkiej skóry naturalnej. Smukła cholewka do kostki, elegancki obcas 8 cm. Włoskie rzemiosło L'estrosa w odcieniach beżu, brązu i szarości.</description>
+      <link>https://www.italy-shop.eu/Kozaki-na-obcasie-Lestrosa-p299</link>
+      <g:image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-kozaki-na-obcasie-Lestrosa_%5B5255%5D_1200.jpg</g:image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-kozaki-na-obcasie-Lestrosa_%5B5358%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-kozaki-na-obcasie-Lestrosa_%5B5359%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-kozaki-na-obcasie-Lestrosa_%5B5255%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-kozaki-na-obcasie-Lestrosa_%5B5256%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-kozaki-na-obcasie-Lestrosa_%5B5257%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-kozaki-na-obcasie-Lestrosa_%5B5360%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-kozaki-na-obcasie-Lestrosa_%5B5361%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-kozaki-na-obcasie-Lestrosa_%5B5362%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-kozaki-na-obcasie-Lestrosa_%5B5363%5D_1200.jpg</g:additional_image_link>
+      <g:price>950.00 PLN</g:price>
+      <g:availability>out of stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>L'estrosa</g:brand>
+      <g:google_product_category>187</g:google_product_category>
+      <g:color>Beżowy</g:color>
       <g:size>38</g:size>
     </item>
     <item>
@@ -16758,30 +16758,6 @@
       <g:size>39</g:size>
     </item>
     <item>
-      <g:id>131_52_43</g:id>
-      <g:item_group_id>131</g:item_group_id>
-      <title>Sneakersy L'estrosa Dolce</title>
-      <description>Sneakersy L'estrosa z miękkiej skóry zamszowej w beżowym odcieniu. Gruba podeszwa platformowa 4 cm zapewnia komfort przez cały dzień. Sznurowanie i perforacja nadają sportowy charakter.</description>
-      <link>https://www.italy-shop.eu/Sneakersy-Lestrosa-Dolce-p131</link>
-      <g:image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Dolce_%5B4861%5D_1200.jpg</g:image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Dolce_%5B4853%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Dolce_%5B4854%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Dolce_%5B4855%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Dolce_%5B4856%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Dolce_%5B4858%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Dolce_%5B4857%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Dolce_%5B4859%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Dolce_%5B4861%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Dolce_%5B4860%5D_1200.jpg</g:additional_image_link>
-      <g:price>750.00 PLN</g:price>
-      <g:availability>out of stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>L'estrosa</g:brand>
-      <g:google_product_category>187</g:google_product_category>
-      <g:color>Brązowy</g:color>
-      <g:size>39</g:size>
-    </item>
-    <item>
       <g:id>131_54_43</g:id>
       <g:item_group_id>131</g:item_group_id>
       <title>Sneakersy L'estrosa Dolce</title>
@@ -16803,6 +16779,30 @@
       <g:brand>L'estrosa</g:brand>
       <g:google_product_category>187</g:google_product_category>
       <g:color>Niebieski</g:color>
+      <g:size>39</g:size>
+    </item>
+    <item>
+      <g:id>131_52_43</g:id>
+      <g:item_group_id>131</g:item_group_id>
+      <title>Sneakersy L'estrosa Dolce</title>
+      <description>Sneakersy L'estrosa z miękkiej skóry zamszowej w beżowym odcieniu. Gruba podeszwa platformowa 4 cm zapewnia komfort przez cały dzień. Sznurowanie i perforacja nadają sportowy charakter.</description>
+      <link>https://www.italy-shop.eu/Sneakersy-Lestrosa-Dolce-p131</link>
+      <g:image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Dolce_%5B4861%5D_1200.jpg</g:image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Dolce_%5B4853%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Dolce_%5B4854%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Dolce_%5B4855%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Dolce_%5B4856%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Dolce_%5B4858%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Dolce_%5B4857%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Dolce_%5B4859%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Dolce_%5B4861%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Dolce_%5B4860%5D_1200.jpg</g:additional_image_link>
+      <g:price>750.00 PLN</g:price>
+      <g:availability>out of stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>L'estrosa</g:brand>
+      <g:google_product_category>187</g:google_product_category>
+      <g:color>Brązowy</g:color>
       <g:size>39</g:size>
     </item>
     <item>
@@ -16996,29 +16996,6 @@
       <g:size>36</g:size>
     </item>
     <item>
-      <g:id>277_66_40</g:id>
-      <g:item_group_id>277</g:item_group_id>
-      <title>Sneakersy L'estrosa Sole</title>
-      <description>Sneakersy z delikatnej skóry w kolorach białym i niebieskim. Miękki zamsz na cholewce, sportowa podeszwa. Połączenie komfortu i eleganckiego stylu casualowego.</description>
-      <link>https://www.italy-shop.eu/Sneakersy-Lestrosa-Sole-p277</link>
-      <g:image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Sneakersy-Lestrosa-Sole_%5B5729%5D_1200.jpg</g:image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Sole_%5B4767%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Sole_%5B4768%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Sole_%5B4769%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Sole_%5B4770%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Sole_%5B4771%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Sole_%5B4772%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Sole_%5B4773%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Sneakersy-Lestrosa-Sole_%5B5729%5D_1200.jpg</g:additional_image_link>
-      <g:price>690.00 PLN</g:price>
-      <g:availability>out of stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>L'estrosa</g:brand>
-      <g:google_product_category>187</g:google_product_category>
-      <g:color>Mleczny</g:color>
-      <g:size>36</g:size>
-    </item>
-    <item>
       <g:id>277_59_40</g:id>
       <g:item_group_id>277</g:item_group_id>
       <title>Sneakersy L'estrosa Sole</title>
@@ -17039,6 +17016,29 @@
       <g:brand>L'estrosa</g:brand>
       <g:google_product_category>187</g:google_product_category>
       <g:color>Karmel</g:color>
+      <g:size>36</g:size>
+    </item>
+    <item>
+      <g:id>277_66_40</g:id>
+      <g:item_group_id>277</g:item_group_id>
+      <title>Sneakersy L'estrosa Sole</title>
+      <description>Sneakersy z delikatnej skóry w kolorach białym i niebieskim. Miękki zamsz na cholewce, sportowa podeszwa. Połączenie komfortu i eleganckiego stylu casualowego.</description>
+      <link>https://www.italy-shop.eu/Sneakersy-Lestrosa-Sole-p277</link>
+      <g:image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Sneakersy-Lestrosa-Sole_%5B5729%5D_1200.jpg</g:image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Sole_%5B4767%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Sole_%5B4768%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Sole_%5B4769%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Sole_%5B4770%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Sole_%5B4771%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Sole_%5B4772%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Sole_%5B4773%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Sneakersy-Lestrosa-Sole_%5B5729%5D_1200.jpg</g:additional_image_link>
+      <g:price>690.00 PLN</g:price>
+      <g:availability>out of stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>L'estrosa</g:brand>
+      <g:google_product_category>187</g:google_product_category>
+      <g:color>Mleczny</g:color>
       <g:size>36</g:size>
     </item>
     <item>
@@ -17065,29 +17065,6 @@
       <g:size>37</g:size>
     </item>
     <item>
-      <g:id>277_66_41</g:id>
-      <g:item_group_id>277</g:item_group_id>
-      <title>Sneakersy L'estrosa Sole</title>
-      <description>Sneakersy z delikatnej skóry w kolorach białym i niebieskim. Miękki zamsz na cholewce, sportowa podeszwa. Połączenie komfortu i eleganckiego stylu casualowego.</description>
-      <link>https://www.italy-shop.eu/Sneakersy-Lestrosa-Sole-p277</link>
-      <g:image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Sneakersy-Lestrosa-Sole_%5B5729%5D_1200.jpg</g:image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Sole_%5B4767%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Sole_%5B4768%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Sole_%5B4769%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Sole_%5B4770%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Sole_%5B4771%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Sole_%5B4772%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Sole_%5B4773%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Sneakersy-Lestrosa-Sole_%5B5729%5D_1200.jpg</g:additional_image_link>
-      <g:price>690.00 PLN</g:price>
-      <g:availability>out of stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>L'estrosa</g:brand>
-      <g:google_product_category>187</g:google_product_category>
-      <g:color>Mleczny</g:color>
-      <g:size>37</g:size>
-    </item>
-    <item>
       <g:id>277_47_41</g:id>
       <g:item_group_id>277</g:item_group_id>
       <title>Sneakersy L'estrosa Sole</title>
@@ -17108,6 +17085,29 @@
       <g:brand>L'estrosa</g:brand>
       <g:google_product_category>187</g:google_product_category>
       <g:color>Beżowy</g:color>
+      <g:size>37</g:size>
+    </item>
+    <item>
+      <g:id>277_66_41</g:id>
+      <g:item_group_id>277</g:item_group_id>
+      <title>Sneakersy L'estrosa Sole</title>
+      <description>Sneakersy z delikatnej skóry w kolorach białym i niebieskim. Miękki zamsz na cholewce, sportowa podeszwa. Połączenie komfortu i eleganckiego stylu casualowego.</description>
+      <link>https://www.italy-shop.eu/Sneakersy-Lestrosa-Sole-p277</link>
+      <g:image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Sneakersy-Lestrosa-Sole_%5B5729%5D_1200.jpg</g:image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Sole_%5B4767%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Sole_%5B4768%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Sole_%5B4769%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Sole_%5B4770%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Sole_%5B4771%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Sole_%5B4772%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Sole_%5B4773%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Sneakersy-Lestrosa-Sole_%5B5729%5D_1200.jpg</g:additional_image_link>
+      <g:price>690.00 PLN</g:price>
+      <g:availability>out of stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>L'estrosa</g:brand>
+      <g:google_product_category>187</g:google_product_category>
+      <g:color>Mleczny</g:color>
       <g:size>37</g:size>
     </item>
     <item>
@@ -17550,30 +17550,6 @@
       <g:size>36</g:size>
     </item>
     <item>
-      <g:id>253_54_40</g:id>
-      <g:item_group_id>253</g:item_group_id>
-      <title>Sneakersy L'estrosa Sole</title>
-      <description>Sneakersy L'estrosa z naturalnej skóry i zamszowych wstawek w kolorystyce nude. Wygodna podeszwa i skórzana wkładka zapewniają komfort przez cały dzień.</description>
-      <link>https://www.italy-shop.eu/Sneakersy-Lestrosa-Sole-p253</link>
-      <g:image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Sole_%5B4963%5D_1200.jpg</g:image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Sole_%5B4963%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Sole_%5B4964%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Sole_%5B4965%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Sole_%5B4966%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Sole_%5B4967%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Sole_%5B4968%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Sole_%5B4969%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Sole_%5B4970%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Sneakersy-Lestrosa-Sole_%5B5467%5D_1200.jpg</g:additional_image_link>
-      <g:price>690.00 PLN</g:price>
-      <g:availability>out of stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>L'estrosa</g:brand>
-      <g:google_product_category>187</g:google_product_category>
-      <g:color>Niebieski</g:color>
-      <g:size>36</g:size>
-    </item>
-    <item>
       <g:id>253_58_40</g:id>
       <g:item_group_id>253</g:item_group_id>
       <title>Sneakersy L'estrosa Sole</title>
@@ -17595,6 +17571,30 @@
       <g:brand>L'estrosa</g:brand>
       <g:google_product_category>187</g:google_product_category>
       <g:color>Szary</g:color>
+      <g:size>36</g:size>
+    </item>
+    <item>
+      <g:id>253_54_40</g:id>
+      <g:item_group_id>253</g:item_group_id>
+      <title>Sneakersy L'estrosa Sole</title>
+      <description>Sneakersy L'estrosa z naturalnej skóry i zamszowych wstawek w kolorystyce nude. Wygodna podeszwa i skórzana wkładka zapewniają komfort przez cały dzień.</description>
+      <link>https://www.italy-shop.eu/Sneakersy-Lestrosa-Sole-p253</link>
+      <g:image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Sole_%5B4963%5D_1200.jpg</g:image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Sole_%5B4963%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Sole_%5B4964%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Sole_%5B4965%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Sole_%5B4966%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Sole_%5B4967%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Sole_%5B4968%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Sole_%5B4969%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Sneakersy-Lestrosa-Sole_%5B4970%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Sneakersy-Lestrosa-Sole_%5B5467%5D_1200.jpg</g:additional_image_link>
+      <g:price>690.00 PLN</g:price>
+      <g:availability>out of stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>L'estrosa</g:brand>
+      <g:google_product_category>187</g:google_product_category>
+      <g:color>Niebieski</g:color>
       <g:size>36</g:size>
     </item>
     <item>
@@ -18656,7 +18656,7 @@
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Szerokie-kozaki-Lestrosa_%5B4962%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Szerokie-kozaki-Lestrosa_%5B4984%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Szerokie-kozaki-Lestrosa_%5B5055%5D_1200.jpg</g:additional_image_link>
-      <g:price>1200.00 PLN</g:price>
+      <g:price>840.00 PLN</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>L'estrosa</g:brand>
@@ -18678,7 +18678,7 @@
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Szerokie-kozaki-Lestrosa_%5B4962%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Szerokie-kozaki-Lestrosa_%5B4984%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Szerokie-kozaki-Lestrosa_%5B5055%5D_1200.jpg</g:additional_image_link>
-      <g:price>1200.00 PLN</g:price>
+      <g:price>840.00 PLN</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>L'estrosa</g:brand>
