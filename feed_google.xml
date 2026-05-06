@@ -4934,6 +4934,8 @@
       <g:id>256_45_40</g:id>
       <g:item_group_id>256</g:item_group_id>
       <g:price>730.00 PLN</g:price>
+      <g:sale_price>584.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-05-05T00:00:00+02:00/2026-05-09T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -4961,6 +4963,8 @@
       <g:id>256_45_41</g:id>
       <g:item_group_id>256</g:item_group_id>
       <g:price>730.00 PLN</g:price>
+      <g:sale_price>584.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-05-05T00:00:00+02:00/2026-05-09T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -4988,6 +4992,8 @@
       <g:id>256_45_42</g:id>
       <g:item_group_id>256</g:item_group_id>
       <g:price>730.00 PLN</g:price>
+      <g:sale_price>584.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-05-05T00:00:00+02:00/2026-05-09T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -5015,6 +5021,8 @@
       <g:id>256_45_43</g:id>
       <g:item_group_id>256</g:item_group_id>
       <g:price>730.00 PLN</g:price>
+      <g:sale_price>584.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-05-05T00:00:00+02:00/2026-05-09T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -5042,6 +5050,8 @@
       <g:id>256_45_44</g:id>
       <g:item_group_id>256</g:item_group_id>
       <g:price>730.00 PLN</g:price>
+      <g:sale_price>584.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-05-05T00:00:00+02:00/2026-05-09T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -5069,6 +5079,8 @@
       <g:id>356_59_40</g:id>
       <g:item_group_id>356</g:item_group_id>
       <g:price>730.00 PLN</g:price>
+      <g:sale_price>584.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-05-05T00:00:00+02:00/2026-05-09T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -5096,6 +5108,8 @@
       <g:id>356_59_41</g:id>
       <g:item_group_id>356</g:item_group_id>
       <g:price>730.00 PLN</g:price>
+      <g:sale_price>584.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-05-05T00:00:00+02:00/2026-05-09T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -5123,6 +5137,8 @@
       <g:id>356_59_42</g:id>
       <g:item_group_id>356</g:item_group_id>
       <g:price>730.00 PLN</g:price>
+      <g:sale_price>584.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-05-05T00:00:00+02:00/2026-05-09T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -5150,6 +5166,8 @@
       <g:id>356_59_43</g:id>
       <g:item_group_id>356</g:item_group_id>
       <g:price>730.00 PLN</g:price>
+      <g:sale_price>584.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-05-05T00:00:00+02:00/2026-05-09T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -5177,6 +5195,8 @@
       <g:id>356_59_44</g:id>
       <g:item_group_id>356</g:item_group_id>
       <g:price>730.00 PLN</g:price>
+      <g:sale_price>584.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-05-05T00:00:00+02:00/2026-05-09T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -6165,33 +6185,6 @@
     <item>
       <title>Klapki Lestrosa Siena skóra</title>
       <link>https://www.italy-shop.eu/Klapki-Lestrosa-Siena-p169</link>
-      <g:id>169_47_44</g:id>
-      <g:item_group_id>169</g:item_group_id>
-      <g:price>720.00 PLN</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Lestrosa</g:brand>
-      <g:google_product_category>187</g:google_product_category>
-      <g:image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Siena_%5B5749%5D_1200.jpg</g:image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Siena_%5B5835%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Siena_%5B5749%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Siena_%5B5750%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Siena_%5B5844%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Siena_%5B5751%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Siena_%5B5752%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Siena_%5B5753%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Siena_%5B5755%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Siena_%5B5839%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Siena_%5B5840%5D_1200.jpg</g:additional_image_link>
-      <g:color>Beżowy</g:color>
-      <g:size>40</g:size>
-      <g:age_group>adult</g:age_group>
-      <g:gender>female</g:gender>
-      <g:custom_label_0>lato</g:custom_label_0>
-    </item>
-    <item>
-      <title>Klapki Lestrosa Siena skóra</title>
-      <link>https://www.italy-shop.eu/Klapki-Lestrosa-Siena-p169</link>
       <g:id>169_53_44</g:id>
       <g:item_group_id>169</g:item_group_id>
       <g:price>720.00 PLN</g:price>
@@ -6211,6 +6204,33 @@
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Siena_%5B5839%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Siena_%5B5840%5D_1200.jpg</g:additional_image_link>
       <g:color>Różowy</g:color>
+      <g:size>40</g:size>
+      <g:age_group>adult</g:age_group>
+      <g:gender>female</g:gender>
+      <g:custom_label_0>lato</g:custom_label_0>
+    </item>
+    <item>
+      <title>Klapki Lestrosa Siena skóra</title>
+      <link>https://www.italy-shop.eu/Klapki-Lestrosa-Siena-p169</link>
+      <g:id>169_47_44</g:id>
+      <g:item_group_id>169</g:item_group_id>
+      <g:price>720.00 PLN</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Lestrosa</g:brand>
+      <g:google_product_category>187</g:google_product_category>
+      <g:image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Siena_%5B5749%5D_1200.jpg</g:image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Siena_%5B5835%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Siena_%5B5749%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Siena_%5B5750%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Siena_%5B5844%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Siena_%5B5751%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Siena_%5B5752%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Siena_%5B5753%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Siena_%5B5755%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Siena_%5B5839%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Siena_%5B5840%5D_1200.jpg</g:additional_image_link>
+      <g:color>Beżowy</g:color>
       <g:size>40</g:size>
       <g:age_group>adult</g:age_group>
       <g:gender>female</g:gender>
@@ -6654,21 +6674,18 @@
       <g:id>259_47_40</g:id>
       <g:item_group_id>259</g:item_group_id>
       <g:price>790.00 PLN</g:price>
+      <g:sale_price>632.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-05-05T00:00:00+02:00/2026-05-31T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
       <g:google_product_category>187</g:google_product_category>
-      <g:image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5687%5D_1200.jpg</g:image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5191%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5192%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5193%5D_1200.jpg</g:additional_image_link>
+      <g:image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Klapki-Lestrosa-skora_%5B6514%5D_1200.jpg</g:image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Klapki-Lestrosa-skora_%5B6513%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5570%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5571%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5572%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5683%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5684%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5685%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5686%5D_1200.jpg</g:additional_image_link>
       <g:color>Beżowy</g:color>
       <g:size>36</g:size>
       <g:age_group>adult</g:age_group>
@@ -6681,21 +6698,18 @@
       <g:id>259_45_40</g:id>
       <g:item_group_id>259</g:item_group_id>
       <g:price>790.00 PLN</g:price>
+      <g:sale_price>632.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-05-05T00:00:00+02:00/2026-05-31T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
       <g:google_product_category>187</g:google_product_category>
-      <g:image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5687%5D_1200.jpg</g:image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5191%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5192%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5193%5D_1200.jpg</g:additional_image_link>
+      <g:image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Klapki-Lestrosa-skora_%5B6514%5D_1200.jpg</g:image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Klapki-Lestrosa-skora_%5B6513%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5570%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5571%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5572%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5683%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5684%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5685%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5686%5D_1200.jpg</g:additional_image_link>
       <g:color>Czarny</g:color>
       <g:size>36</g:size>
       <g:age_group>adult</g:age_group>
@@ -6708,21 +6722,18 @@
       <g:id>259_47_41</g:id>
       <g:item_group_id>259</g:item_group_id>
       <g:price>790.00 PLN</g:price>
+      <g:sale_price>632.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-05-05T00:00:00+02:00/2026-05-31T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
       <g:google_product_category>187</g:google_product_category>
-      <g:image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5687%5D_1200.jpg</g:image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5191%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5192%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5193%5D_1200.jpg</g:additional_image_link>
+      <g:image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Klapki-Lestrosa-skora_%5B6514%5D_1200.jpg</g:image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Klapki-Lestrosa-skora_%5B6513%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5570%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5571%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5572%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5683%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5684%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5685%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5686%5D_1200.jpg</g:additional_image_link>
       <g:color>Beżowy</g:color>
       <g:size>37</g:size>
       <g:age_group>adult</g:age_group>
@@ -6735,21 +6746,18 @@
       <g:id>259_45_41</g:id>
       <g:item_group_id>259</g:item_group_id>
       <g:price>790.00 PLN</g:price>
+      <g:sale_price>632.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-05-05T00:00:00+02:00/2026-05-31T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
       <g:google_product_category>187</g:google_product_category>
-      <g:image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5687%5D_1200.jpg</g:image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5191%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5192%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5193%5D_1200.jpg</g:additional_image_link>
+      <g:image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Klapki-Lestrosa-skora_%5B6514%5D_1200.jpg</g:image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Klapki-Lestrosa-skora_%5B6513%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5570%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5571%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5572%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5683%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5684%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5685%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5686%5D_1200.jpg</g:additional_image_link>
       <g:color>Czarny</g:color>
       <g:size>37</g:size>
       <g:age_group>adult</g:age_group>
@@ -6762,21 +6770,18 @@
       <g:id>259_47_42</g:id>
       <g:item_group_id>259</g:item_group_id>
       <g:price>790.00 PLN</g:price>
+      <g:sale_price>632.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-05-05T00:00:00+02:00/2026-05-31T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
       <g:google_product_category>187</g:google_product_category>
-      <g:image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5687%5D_1200.jpg</g:image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5191%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5192%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5193%5D_1200.jpg</g:additional_image_link>
+      <g:image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Klapki-Lestrosa-skora_%5B6514%5D_1200.jpg</g:image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Klapki-Lestrosa-skora_%5B6513%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5570%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5571%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5572%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5683%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5684%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5685%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5686%5D_1200.jpg</g:additional_image_link>
       <g:color>Beżowy</g:color>
       <g:size>38</g:size>
       <g:age_group>adult</g:age_group>
@@ -6789,21 +6794,18 @@
       <g:id>259_45_42</g:id>
       <g:item_group_id>259</g:item_group_id>
       <g:price>790.00 PLN</g:price>
+      <g:sale_price>632.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-05-05T00:00:00+02:00/2026-05-31T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
       <g:google_product_category>187</g:google_product_category>
-      <g:image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5687%5D_1200.jpg</g:image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5191%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5192%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5193%5D_1200.jpg</g:additional_image_link>
+      <g:image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Klapki-Lestrosa-skora_%5B6514%5D_1200.jpg</g:image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Klapki-Lestrosa-skora_%5B6513%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5570%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5571%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5572%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5683%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5684%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5685%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5686%5D_1200.jpg</g:additional_image_link>
       <g:color>Czarny</g:color>
       <g:size>38</g:size>
       <g:age_group>adult</g:age_group>
@@ -6816,21 +6818,18 @@
       <g:id>259_47_43</g:id>
       <g:item_group_id>259</g:item_group_id>
       <g:price>790.00 PLN</g:price>
+      <g:sale_price>632.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-05-05T00:00:00+02:00/2026-05-31T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
       <g:google_product_category>187</g:google_product_category>
-      <g:image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5687%5D_1200.jpg</g:image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5191%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5192%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5193%5D_1200.jpg</g:additional_image_link>
+      <g:image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Klapki-Lestrosa-skora_%5B6514%5D_1200.jpg</g:image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Klapki-Lestrosa-skora_%5B6513%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5570%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5571%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5572%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5683%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5684%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5685%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5686%5D_1200.jpg</g:additional_image_link>
       <g:color>Beżowy</g:color>
       <g:size>39</g:size>
       <g:age_group>adult</g:age_group>
@@ -6843,21 +6842,18 @@
       <g:id>259_45_43</g:id>
       <g:item_group_id>259</g:item_group_id>
       <g:price>790.00 PLN</g:price>
+      <g:sale_price>632.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-05-05T00:00:00+02:00/2026-05-31T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
       <g:google_product_category>187</g:google_product_category>
-      <g:image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5687%5D_1200.jpg</g:image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5191%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5192%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5193%5D_1200.jpg</g:additional_image_link>
+      <g:image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Klapki-Lestrosa-skora_%5B6514%5D_1200.jpg</g:image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Klapki-Lestrosa-skora_%5B6513%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5570%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5571%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5572%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5683%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5684%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5685%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5686%5D_1200.jpg</g:additional_image_link>
       <g:color>Czarny</g:color>
       <g:size>39</g:size>
       <g:age_group>adult</g:age_group>
@@ -6870,21 +6866,18 @@
       <g:id>259_47_44</g:id>
       <g:item_group_id>259</g:item_group_id>
       <g:price>790.00 PLN</g:price>
+      <g:sale_price>632.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-05-05T00:00:00+02:00/2026-05-31T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
       <g:google_product_category>187</g:google_product_category>
-      <g:image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5687%5D_1200.jpg</g:image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5191%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5192%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5193%5D_1200.jpg</g:additional_image_link>
+      <g:image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Klapki-Lestrosa-skora_%5B6514%5D_1200.jpg</g:image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Klapki-Lestrosa-skora_%5B6513%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5570%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5571%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5572%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5683%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5684%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5685%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5686%5D_1200.jpg</g:additional_image_link>
       <g:color>Beżowy</g:color>
       <g:size>40</g:size>
       <g:age_group>adult</g:age_group>
@@ -6897,21 +6890,18 @@
       <g:id>259_45_44</g:id>
       <g:item_group_id>259</g:item_group_id>
       <g:price>790.00 PLN</g:price>
+      <g:sale_price>632.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-05-05T00:00:00+02:00/2026-05-31T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
       <g:google_product_category>187</g:google_product_category>
-      <g:image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5687%5D_1200.jpg</g:image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5191%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5192%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5193%5D_1200.jpg</g:additional_image_link>
+      <g:image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Klapki-Lestrosa-skora_%5B6514%5D_1200.jpg</g:image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Klapki-Lestrosa-skora_%5B6513%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5570%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5571%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5572%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5683%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5684%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5685%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5686%5D_1200.jpg</g:additional_image_link>
       <g:color>Czarny</g:color>
       <g:size>40</g:size>
       <g:age_group>adult</g:age_group>
@@ -8362,33 +8352,6 @@
     <item>
       <title>Klapki Lestrosa zamsz</title>
       <link>https://www.italy-shop.eu/Klapki-Lestrosa-zamsz-p291</link>
-      <g:id>291_57_40</g:id>
-      <g:item_group_id>291</g:item_group_id>
-      <g:price>790.00 PLN</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Lestrosa</g:brand>
-      <g:google_product_category>187</g:google_product_category>
-      <g:image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-zamsz_%5B5720%5D_1200.jpg</g:image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-zamsz_%5B4845%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-zamsz_%5B4846%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-zamsz_%5B4847%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-zamsz_%5B4724%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-zamsz_%5B5072%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-zamsz_%5B5073%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-zamsz_%5B4849%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-zamsz_%5B4850%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-zamsz_%5B4851%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-zamsz_%5B5137%5D_1200.jpg</g:additional_image_link>
-      <g:color>Pudrowy</g:color>
-      <g:size>36</g:size>
-      <g:age_group>adult</g:age_group>
-      <g:gender>female</g:gender>
-      <g:custom_label_0>lato</g:custom_label_0>
-    </item>
-    <item>
-      <title>Klapki Lestrosa zamsz</title>
-      <link>https://www.italy-shop.eu/Klapki-Lestrosa-zamsz-p291</link>
       <g:id>291_53_40</g:id>
       <g:item_group_id>291</g:item_group_id>
       <g:price>790.00 PLN</g:price>
@@ -8435,6 +8398,33 @@
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-zamsz_%5B4851%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-zamsz_%5B5137%5D_1200.jpg</g:additional_image_link>
       <g:color>Brązowy</g:color>
+      <g:size>36</g:size>
+      <g:age_group>adult</g:age_group>
+      <g:gender>female</g:gender>
+      <g:custom_label_0>lato</g:custom_label_0>
+    </item>
+    <item>
+      <title>Klapki Lestrosa zamsz</title>
+      <link>https://www.italy-shop.eu/Klapki-Lestrosa-zamsz-p291</link>
+      <g:id>291_57_40</g:id>
+      <g:item_group_id>291</g:item_group_id>
+      <g:price>790.00 PLN</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Lestrosa</g:brand>
+      <g:google_product_category>187</g:google_product_category>
+      <g:image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-zamsz_%5B5720%5D_1200.jpg</g:image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-zamsz_%5B4845%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-zamsz_%5B4846%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-zamsz_%5B4847%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-zamsz_%5B4724%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-zamsz_%5B5072%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-zamsz_%5B5073%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-zamsz_%5B4849%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-zamsz_%5B4850%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-zamsz_%5B4851%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-zamsz_%5B5137%5D_1200.jpg</g:additional_image_link>
+      <g:color>Pudrowy</g:color>
       <g:size>36</g:size>
       <g:age_group>adult</g:age_group>
       <g:gender>female</g:gender>
@@ -8686,33 +8676,6 @@
     <item>
       <title>Klapki Lestrosa zamsz</title>
       <link>https://www.italy-shop.eu/Klapki-Lestrosa-zamsz-p291</link>
-      <g:id>291_58_41</g:id>
-      <g:item_group_id>291</g:item_group_id>
-      <g:price>790.00 PLN</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Lestrosa</g:brand>
-      <g:google_product_category>187</g:google_product_category>
-      <g:image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-zamsz_%5B5072%5D_1200.jpg</g:image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-zamsz_%5B4845%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-zamsz_%5B4846%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-zamsz_%5B4847%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-zamsz_%5B4724%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-zamsz_%5B5072%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-zamsz_%5B5073%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-zamsz_%5B4849%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-zamsz_%5B4850%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-zamsz_%5B4851%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-zamsz_%5B5137%5D_1200.jpg</g:additional_image_link>
-      <g:color>Szary</g:color>
-      <g:size>37</g:size>
-      <g:age_group>adult</g:age_group>
-      <g:gender>female</g:gender>
-      <g:custom_label_0>lato</g:custom_label_0>
-    </item>
-    <item>
-      <title>Klapki Lestrosa zamsz</title>
-      <link>https://www.italy-shop.eu/Klapki-Lestrosa-zamsz-p291</link>
       <g:id>291_47_41</g:id>
       <g:item_group_id>291</g:item_group_id>
       <g:price>790.00 PLN</g:price>
@@ -8732,6 +8695,33 @@
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-zamsz_%5B4851%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-zamsz_%5B5137%5D_1200.jpg</g:additional_image_link>
       <g:color>Beżowy</g:color>
+      <g:size>37</g:size>
+      <g:age_group>adult</g:age_group>
+      <g:gender>female</g:gender>
+      <g:custom_label_0>lato</g:custom_label_0>
+    </item>
+    <item>
+      <title>Klapki Lestrosa zamsz</title>
+      <link>https://www.italy-shop.eu/Klapki-Lestrosa-zamsz-p291</link>
+      <g:id>291_58_41</g:id>
+      <g:item_group_id>291</g:item_group_id>
+      <g:price>790.00 PLN</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Lestrosa</g:brand>
+      <g:google_product_category>187</g:google_product_category>
+      <g:image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-zamsz_%5B5072%5D_1200.jpg</g:image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-zamsz_%5B4845%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-zamsz_%5B4846%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-zamsz_%5B4847%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-zamsz_%5B4724%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-zamsz_%5B5072%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-zamsz_%5B5073%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-zamsz_%5B4849%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-zamsz_%5B4850%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-zamsz_%5B4851%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-zamsz_%5B5137%5D_1200.jpg</g:additional_image_link>
+      <g:color>Szary</g:color>
       <g:size>37</g:size>
       <g:age_group>adult</g:age_group>
       <g:gender>female</g:gender>
@@ -10613,10 +10603,10 @@
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Kozaki-azurowe-zamszowe-na-szpilce-Lestrosa_%5B6251%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Kozaki-azurowe-zamszowe-na-szpilce-Lestrosa_%5B6252%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Kozaki-azurowe-zamszowe-na-szpilce-Lestrosa_%5B6254%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Kozaki-azurowe-Lestrosa-bezowy_%5B6512%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Kozaki-azurowe-zamszowe-na-szpilce-Lestrosa_%5B6255%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Kozaki-azurowe-zamszowe-na-szpilce-Lestrosa_%5B6256%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Kozaki-azurowe-zamszowe-na-szpilce-Lestrosa_%5B6257%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Kozaki-azurowe-zamszowe-na-szpilce-Lestrosa_%5B6275%5D_1200.jpg</g:additional_image_link>
       <g:color>Beżowy</g:color>
       <g:size>36</g:size>
       <g:age_group>adult</g:age_group>
@@ -10638,10 +10628,10 @@
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Kozaki-azurowe-zamszowe-na-szpilce-Lestrosa_%5B6251%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Kozaki-azurowe-zamszowe-na-szpilce-Lestrosa_%5B6252%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Kozaki-azurowe-zamszowe-na-szpilce-Lestrosa_%5B6254%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Kozaki-azurowe-Lestrosa-bezowy_%5B6512%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Kozaki-azurowe-zamszowe-na-szpilce-Lestrosa_%5B6255%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Kozaki-azurowe-zamszowe-na-szpilce-Lestrosa_%5B6256%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Kozaki-azurowe-zamszowe-na-szpilce-Lestrosa_%5B6257%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Kozaki-azurowe-zamszowe-na-szpilce-Lestrosa_%5B6275%5D_1200.jpg</g:additional_image_link>
       <g:color>Beżowy</g:color>
       <g:size>37</g:size>
       <g:age_group>adult</g:age_group>
@@ -10663,10 +10653,10 @@
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Kozaki-azurowe-zamszowe-na-szpilce-Lestrosa_%5B6251%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Kozaki-azurowe-zamszowe-na-szpilce-Lestrosa_%5B6252%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Kozaki-azurowe-zamszowe-na-szpilce-Lestrosa_%5B6254%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Kozaki-azurowe-Lestrosa-bezowy_%5B6512%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Kozaki-azurowe-zamszowe-na-szpilce-Lestrosa_%5B6255%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Kozaki-azurowe-zamszowe-na-szpilce-Lestrosa_%5B6256%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Kozaki-azurowe-zamszowe-na-szpilce-Lestrosa_%5B6257%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Kozaki-azurowe-zamszowe-na-szpilce-Lestrosa_%5B6275%5D_1200.jpg</g:additional_image_link>
       <g:color>Beżowy</g:color>
       <g:size>38</g:size>
       <g:age_group>adult</g:age_group>
@@ -10688,10 +10678,10 @@
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Kozaki-azurowe-zamszowe-na-szpilce-Lestrosa_%5B6251%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Kozaki-azurowe-zamszowe-na-szpilce-Lestrosa_%5B6252%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Kozaki-azurowe-zamszowe-na-szpilce-Lestrosa_%5B6254%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Kozaki-azurowe-Lestrosa-bezowy_%5B6512%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Kozaki-azurowe-zamszowe-na-szpilce-Lestrosa_%5B6255%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Kozaki-azurowe-zamszowe-na-szpilce-Lestrosa_%5B6256%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Kozaki-azurowe-zamszowe-na-szpilce-Lestrosa_%5B6257%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Kozaki-azurowe-zamszowe-na-szpilce-Lestrosa_%5B6275%5D_1200.jpg</g:additional_image_link>
       <g:color>Beżowy</g:color>
       <g:size>39</g:size>
       <g:age_group>adult</g:age_group>
@@ -10713,10 +10703,10 @@
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Kozaki-azurowe-zamszowe-na-szpilce-Lestrosa_%5B6251%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Kozaki-azurowe-zamszowe-na-szpilce-Lestrosa_%5B6252%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Kozaki-azurowe-zamszowe-na-szpilce-Lestrosa_%5B6254%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Kozaki-azurowe-Lestrosa-bezowy_%5B6512%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Kozaki-azurowe-zamszowe-na-szpilce-Lestrosa_%5B6255%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Kozaki-azurowe-zamszowe-na-szpilce-Lestrosa_%5B6256%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Kozaki-azurowe-zamszowe-na-szpilce-Lestrosa_%5B6257%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Kozaki-azurowe-zamszowe-na-szpilce-Lestrosa_%5B6275%5D_1200.jpg</g:additional_image_link>
       <g:color>Beżowy</g:color>
       <g:size>40</g:size>
       <g:age_group>adult</g:age_group>
@@ -23735,33 +23725,6 @@
     <item>
       <title>Zamszowe klapki z kokardka</title>
       <link>https://www.italy-shop.eu/Zamszowe-klapki-z-kokardka-p176</link>
-      <g:id>176_45_42</g:id>
-      <g:item_group_id>176</g:item_group_id>
-      <g:price>720.00 PLN</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Lestrosa</g:brand>
-      <g:google_product_category>187</g:google_product_category>
-      <g:image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-klapki-z-kokardka_%5B5878%5D_1200.jpg</g:image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-klapki-z-kokardka_%5B5882%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-klapki-z-kokardka_%5B5881%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-klapki-z-kokardka_%5B5883%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-klapki-z-kokardka_%5B5988%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-klapki-z-kokardka_%5B5886%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-klapki-z-kokardka_%5B5884%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-klapki-z-kokardka_%5B5885%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-klapki-z-kokardka_%5B5887%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-klapki-z-kokardka_%5B5888%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-klapki-z-kokardka_%5B5889%5D_1200.jpg</g:additional_image_link>
-      <g:color>Czarny</g:color>
-      <g:size>38</g:size>
-      <g:age_group>adult</g:age_group>
-      <g:gender>female</g:gender>
-      <g:custom_label_0>lato</g:custom_label_0>
-    </item>
-    <item>
-      <title>Zamszowe klapki z kokardka</title>
-      <link>https://www.italy-shop.eu/Zamszowe-klapki-z-kokardka-p176</link>
       <g:id>176_52_42</g:id>
       <g:item_group_id>176</g:item_group_id>
       <g:price>720.00 PLN</g:price>
@@ -23781,6 +23744,33 @@
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-klapki-z-kokardka_%5B5888%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-klapki-z-kokardka_%5B5889%5D_1200.jpg</g:additional_image_link>
       <g:color>Brązowy</g:color>
+      <g:size>38</g:size>
+      <g:age_group>adult</g:age_group>
+      <g:gender>female</g:gender>
+      <g:custom_label_0>lato</g:custom_label_0>
+    </item>
+    <item>
+      <title>Zamszowe klapki z kokardka</title>
+      <link>https://www.italy-shop.eu/Zamszowe-klapki-z-kokardka-p176</link>
+      <g:id>176_45_42</g:id>
+      <g:item_group_id>176</g:item_group_id>
+      <g:price>720.00 PLN</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Lestrosa</g:brand>
+      <g:google_product_category>187</g:google_product_category>
+      <g:image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-klapki-z-kokardka_%5B5878%5D_1200.jpg</g:image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-klapki-z-kokardka_%5B5882%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-klapki-z-kokardka_%5B5881%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-klapki-z-kokardka_%5B5883%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-klapki-z-kokardka_%5B5988%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-klapki-z-kokardka_%5B5886%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-klapki-z-kokardka_%5B5884%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-klapki-z-kokardka_%5B5885%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-klapki-z-kokardka_%5B5887%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-klapki-z-kokardka_%5B5888%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Zamszowe-klapki-z-kokardka_%5B5889%5D_1200.jpg</g:additional_image_link>
+      <g:color>Czarny</g:color>
       <g:size>38</g:size>
       <g:age_group>adult</g:age_group>
       <g:gender>female</g:gender>
