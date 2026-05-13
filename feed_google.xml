@@ -13500,6 +13500,8 @@
       <g:id>360_49_40</g:id>
       <g:item_group_id>360</g:item_group_id>
       <g:price>790.00 PLN</g:price>
+      <g:sale_price>711.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-05-12T00:00:00+02:00/2026-05-17T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -13520,6 +13522,8 @@
       <g:id>360_49_41</g:id>
       <g:item_group_id>360</g:item_group_id>
       <g:price>790.00 PLN</g:price>
+      <g:sale_price>711.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-05-12T00:00:00+02:00/2026-05-17T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -13540,6 +13544,8 @@
       <g:id>360_49_42</g:id>
       <g:item_group_id>360</g:item_group_id>
       <g:price>790.00 PLN</g:price>
+      <g:sale_price>711.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-05-12T00:00:00+02:00/2026-05-17T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -13560,6 +13566,8 @@
       <g:id>360_49_43</g:id>
       <g:item_group_id>360</g:item_group_id>
       <g:price>790.00 PLN</g:price>
+      <g:sale_price>711.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-05-12T00:00:00+02:00/2026-05-17T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -13580,6 +13588,8 @@
       <g:id>360_49_44</g:id>
       <g:item_group_id>360</g:item_group_id>
       <g:price>790.00 PLN</g:price>
+      <g:sale_price>711.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-05-12T00:00:00+02:00/2026-05-17T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -17982,30 +17992,6 @@
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-Leather-Country_%5B2038%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-Leather-Country_%5B2039%5D_1200.jpg</g:additional_image_link>
       <g:color>Bordowy</g:color>
-      <g:age_group>adult</g:age_group>
-      <g:gender>female</g:gender>
-      <g:custom_label_0>other</g:custom_label_0>
-    </item>
-    <item>
-      <title>Torebka Leather Country</title>
-      <link>https://www.italy-shop.eu/Torebka-Leather-Country-p70</link>
-      <g:id>70_58</g:id>
-      <g:item_group_id>70</g:item_group_id>
-      <g:price>469.00 PLN</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Leather Country</g:brand>
-      <g:google_product_category>3032</g:google_product_category>
-      <g:image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-Leather-Country_%5B2039%5D_1200.jpg</g:image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/1000-2000/Torebka-Leather-Country_%5B1397%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/1000-2000/Torebka-Leather-Country_%5B1399%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/1000-2000/Torebka-Leather-Country_%5B1398%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/1000-2000/Torebka-Leather-Country_%5B1400%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/1000-2000/Torebka-Leather-Country_%5B1401%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-Leather-Country_%5B2037%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-Leather-Country_%5B2038%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-Leather-Country_%5B2039%5D_1200.jpg</g:additional_image_link>
-      <g:color>Szary</g:color>
       <g:age_group>adult</g:age_group>
       <g:gender>female</g:gender>
       <g:custom_label_0>other</g:custom_label_0>
