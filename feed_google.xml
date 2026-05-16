@@ -4961,8 +4961,6 @@
       <g:id>256_45_40</g:id>
       <g:item_group_id>256</g:item_group_id>
       <g:price>730.00 PLN</g:price>
-      <g:sale_price>584.00 PLN</g:sale_price>
-      <g:sale_price_effective_date>2026-05-09T00:00:00+02:00/2026-05-16T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -4990,8 +4988,6 @@
       <g:id>256_45_41</g:id>
       <g:item_group_id>256</g:item_group_id>
       <g:price>730.00 PLN</g:price>
-      <g:sale_price>584.00 PLN</g:sale_price>
-      <g:sale_price_effective_date>2026-05-09T00:00:00+02:00/2026-05-16T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -5019,8 +5015,6 @@
       <g:id>256_45_42</g:id>
       <g:item_group_id>256</g:item_group_id>
       <g:price>730.00 PLN</g:price>
-      <g:sale_price>584.00 PLN</g:sale_price>
-      <g:sale_price_effective_date>2026-05-09T00:00:00+02:00/2026-05-16T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -5048,8 +5042,6 @@
       <g:id>256_45_43</g:id>
       <g:item_group_id>256</g:item_group_id>
       <g:price>730.00 PLN</g:price>
-      <g:sale_price>584.00 PLN</g:sale_price>
-      <g:sale_price_effective_date>2026-05-09T00:00:00+02:00/2026-05-16T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -5077,8 +5069,6 @@
       <g:id>256_45_44</g:id>
       <g:item_group_id>256</g:item_group_id>
       <g:price>730.00 PLN</g:price>
-      <g:sale_price>584.00 PLN</g:sale_price>
-      <g:sale_price_effective_date>2026-05-09T00:00:00+02:00/2026-05-16T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -8011,33 +8001,6 @@
     <item>
       <title>Klapki Lestrosa Sole zamsz</title>
       <link>https://www.italy-shop.eu/Klapki-Lestrosa-Sole-zamsz-p292</link>
-      <g:id>292_52_43</g:id>
-      <g:item_group_id>292</g:item_group_id>
-      <g:price>790.00 PLN</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Lestrosa</g:brand>
-      <g:google_product_category>187</g:google_product_category>
-      <g:image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-Sole-zamsz_%5B4761%5D_1200.jpg</g:image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-Sole-zamsz_%5B4837%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-Sole-zamsz_%5B4838%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-Sole-zamsz_%5B4761%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-Sole-zamsz_%5B4839%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-Sole-zamsz_%5B4840%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-Sole-zamsz_%5B4841%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Sole-zamsz_%5B5721%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Sole-zamsz_%5B5722%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Sole-zamsz_%5B5365%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Sole-zamsz_%5B5366%5D_1200.jpg</g:additional_image_link>
-      <g:color>Brązowy</g:color>
-      <g:size>39</g:size>
-      <g:age_group>adult</g:age_group>
-      <g:gender>female</g:gender>
-      <g:custom_label_0>lato</g:custom_label_0>
-    </item>
-    <item>
-      <title>Klapki Lestrosa Sole zamsz</title>
-      <link>https://www.italy-shop.eu/Klapki-Lestrosa-Sole-zamsz-p292</link>
       <g:id>292_58_43</g:id>
       <g:item_group_id>292</g:item_group_id>
       <g:price>790.00 PLN</g:price>
@@ -8057,6 +8020,33 @@
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Sole-zamsz_%5B5365%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Sole-zamsz_%5B5366%5D_1200.jpg</g:additional_image_link>
       <g:color>Szary</g:color>
+      <g:size>39</g:size>
+      <g:age_group>adult</g:age_group>
+      <g:gender>female</g:gender>
+      <g:custom_label_0>lato</g:custom_label_0>
+    </item>
+    <item>
+      <title>Klapki Lestrosa Sole zamsz</title>
+      <link>https://www.italy-shop.eu/Klapki-Lestrosa-Sole-zamsz-p292</link>
+      <g:id>292_52_43</g:id>
+      <g:item_group_id>292</g:item_group_id>
+      <g:price>790.00 PLN</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Lestrosa</g:brand>
+      <g:google_product_category>187</g:google_product_category>
+      <g:image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-Sole-zamsz_%5B4761%5D_1200.jpg</g:image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-Sole-zamsz_%5B4837%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-Sole-zamsz_%5B4838%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-Sole-zamsz_%5B4761%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-Sole-zamsz_%5B4839%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-Sole-zamsz_%5B4840%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-Sole-zamsz_%5B4841%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Sole-zamsz_%5B5721%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Sole-zamsz_%5B5722%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Sole-zamsz_%5B5365%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Sole-zamsz_%5B5366%5D_1200.jpg</g:additional_image_link>
+      <g:color>Brązowy</g:color>
       <g:size>39</g:size>
       <g:age_group>adult</g:age_group>
       <g:gender>female</g:gender>
