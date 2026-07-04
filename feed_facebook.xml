@@ -20,7 +20,7 @@
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Azurowe-baletki-Lestrosa_%5B6569%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Azurowe-baletki-Lestrosa_%5B6570%5D_1200.jpg</g:additional_image_link>
       <g:price>690.00 PLN</g:price>
-      <g:sale_price>621.00 PLN</g:sale_price>
+      <g:sale_price>552.00 PLN</g:sale_price>
       <g:sale_price_effective_date>2026-07-01T00:00:00+02:00/2026-07-31T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
@@ -36,7 +36,7 @@
       <title>Ażurowe baletki L'estrosa</title>
       <description>Materiał: Skóra naturalna Kolory: czarny, mleczny, mokka</description>
       <link>https://www.italy-shop.eu/Azurowe-baletki-Lestrosa-p171</link>
-      <g:image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Azurowe-baletki-Lestrosa_%5B6610%5D_1200.jpg</g:image_link>
+      <g:image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Azurowe-baletki-Lestrosa_%5B2698%5D_1200.jpg</g:image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Azurowe-baletki-Lestrosa_%5B2697%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Azurowe-baletki-Lestrosa_%5B2698%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Azurowe-baletki-Lestrosa_%5B2699%5D_1200.jpg</g:additional_image_link>
@@ -46,7 +46,7 @@
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Azurowe-baletki-Lestrosa_%5B6569%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Azurowe-baletki-Lestrosa_%5B6570%5D_1200.jpg</g:additional_image_link>
       <g:price>690.00 PLN</g:price>
-      <g:sale_price>621.00 PLN</g:sale_price>
+      <g:sale_price>552.00 PLN</g:sale_price>
       <g:sale_price_effective_date>2026-07-01T00:00:00+02:00/2026-07-31T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
@@ -208,29 +208,6 @@
       <g:custom_label_0>lato</g:custom_label_0>
       <g:color>Karmel</g:color>
       <g:size>37</g:size>
-    </item>
-    <item>
-      <g:id>259_47_42</g:id>
-      <g:item_group_id>259</g:item_group_id>
-      <title>Klapki Lestrosa skòra</title>
-      <description>Minimalistyczne klapki na średnim obcasie z gładkiej skóry naturalnej w odcieniu cappuccino. Spiczasty nosek i stabilny obcas 7 cm tworzą klasyczną sylwetkę z nutą elegancji.</description>
-      <link>https://www.italy-shop.eu/Klapki-Lestrosa-skora-p259</link>
-      <g:image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Klapki-Lestrosa-skora_%5B6513%5D_1200.jpg</g:image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Klapki-Lestrosa-skora_%5B6514%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5570%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5571%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5572%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-skora_%5B5683%5D_1200.jpg</g:additional_image_link>
-      <g:price>690.00 PLN</g:price>
-      <g:sale_price>414.00 PLN</g:sale_price>
-      <g:sale_price_effective_date>2026-07-01T00:00:00+02:00/2026-07-31T00:00:00+02:00</g:sale_price_effective_date>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Lestrosa</g:brand>
-      <g:google_product_category>187</g:google_product_category>
-      <g:custom_label_0>lato</g:custom_label_0>
-      <g:color>Beżowy</g:color>
-      <g:size>38</g:size>
     </item>
     <item>
       <g:id>301_46_44</g:id>
