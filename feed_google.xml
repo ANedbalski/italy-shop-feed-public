@@ -10,7 +10,7 @@
       <g:id>171_66_43</g:id>
       <g:item_group_id>171</g:item_group_id>
       <g:price>690.00 PLN</g:price>
-      <g:sale_price>552.00 PLN</g:sale_price>
+      <g:sale_price>483.00 PLN</g:sale_price>
       <g:sale_price_effective_date>2026-07-01T00:00:00+02:00/2026-07-31T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
@@ -32,39 +32,12 @@
       <g:custom_label_0>lato</g:custom_label_0>
     </item>
     <item>
-      <title>Ażurowe baletki L'estrosa</title>
-      <link>https://www.italy-shop.eu/Azurowe-baletki-Lestrosa-p171</link>
-      <g:id>171_45_43</g:id>
-      <g:item_group_id>171</g:item_group_id>
-      <g:price>690.00 PLN</g:price>
-      <g:sale_price>552.00 PLN</g:sale_price>
-      <g:sale_price_effective_date>2026-07-01T00:00:00+02:00/2026-07-31T00:00:00+02:00</g:sale_price_effective_date>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Lestrosa</g:brand>
-      <g:google_product_category>187</g:google_product_category>
-      <g:image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Azurowe-baletki-Lestrosa_%5B2698%5D_1200.jpg</g:image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Azurowe-baletki-Lestrosa_%5B2697%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Azurowe-baletki-Lestrosa_%5B2698%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Azurowe-baletki-Lestrosa_%5B2699%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Azurowe-baletki-Lestrosa_%5B2681%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Azurowe-baletki-Lestrosa_%5B2852%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Azurowe-baletki-Lestrosa_%5B6568%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Azurowe-baletki-Lestrosa_%5B6569%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Azurowe-baletki-Lestrosa_%5B6570%5D_1200.jpg</g:additional_image_link>
-      <g:color>Czarny</g:color>
-      <g:size>39</g:size>
-      <g:age_group>adult</g:age_group>
-      <g:gender>female</g:gender>
-      <g:custom_label_0>lato</g:custom_label_0>
-    </item>
-    <item>
       <title>Ażurowe baletki Lestrosa - czarny słoma</title>
       <link>https://www.italy-shop.eu/Azurowe-baletki-Lestrosa-czarny-p255</link>
       <g:id>255_45_43</g:id>
       <g:item_group_id>255</g:item_group_id>
       <g:price>690.00 PLN</g:price>
-      <g:sale_price>552.00 PLN</g:sale_price>
+      <g:sale_price>483.00 PLN</g:sale_price>
       <g:sale_price_effective_date>2026-07-01T00:00:00+02:00/2026-07-31T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
@@ -88,7 +61,7 @@
       <g:id>255_45_63</g:id>
       <g:item_group_id>255</g:item_group_id>
       <g:price>690.00 PLN</g:price>
-      <g:sale_price>552.00 PLN</g:sale_price>
+      <g:sale_price>483.00 PLN</g:sale_price>
       <g:sale_price_effective_date>2026-07-01T00:00:00+02:00/2026-07-31T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
@@ -242,6 +215,33 @@
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Klapki-Lestrosa-Sole-skora-mleczne_%5B6315%5D_1200.jpg</g:additional_image_link>
       <g:color>Mleczny</g:color>
       <g:size>37</g:size>
+      <g:age_group>adult</g:age_group>
+      <g:gender>female</g:gender>
+      <g:custom_label_0>lato</g:custom_label_0>
+    </item>
+    <item>
+      <title>Klapki Lestrosa Sole zamsz</title>
+      <link>https://www.italy-shop.eu/Klapki-Lestrosa-Sole-zamsz-p292</link>
+      <g:id>292_52_42</g:id>
+      <g:item_group_id>292</g:item_group_id>
+      <g:price>790.00 PLN</g:price>
+      <g:sale_price>474.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-07-01T00:00:00+02:00/2026-07-31T00:00:00+02:00</g:sale_price_effective_date>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Lestrosa</g:brand>
+      <g:google_product_category>187</g:google_product_category>
+      <g:image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Sole-zamsz_%5B5721%5D_1200.jpg</g:image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-Sole-zamsz_%5B4761%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-Sole-zamsz_%5B4839%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-Sole-zamsz_%5B4840%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/4000-5000/Klapki-Lestrosa-Sole-zamsz_%5B4841%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Sole-zamsz_%5B5721%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Sole-zamsz_%5B5722%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Sole-zamsz_%5B5365%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/5000-6000/Klapki-Lestrosa-Sole-zamsz_%5B5366%5D_1200.jpg</g:additional_image_link>
+      <g:color>Brązowy</g:color>
+      <g:size>38</g:size>
       <g:age_group>adult</g:age_group>
       <g:gender>female</g:gender>
       <g:custom_label_0>lato</g:custom_label_0>
