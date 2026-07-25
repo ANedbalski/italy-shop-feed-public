@@ -7334,21 +7334,51 @@
       <g:id>250_58</g:id>
       <g:item_group_id>250</g:item_group_id>
       <g:price>460.00 PLN</g:price>
-      <g:sale_price>276.00 PLN</g:sale_price>
-      <g:sale_price_effective_date>2026-07-01T00:00:00+02:00/2026-07-31T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Leather Country</g:brand>
       <g:google_product_category>3032</g:google_product_category>
       <g:product_type>Torebki</g:product_type>
       <g:image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Torebka-Leather-Country_%5B6551%5D_1200.jpg</g:image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Torebka-Leather-Country_%5B6562%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Torebka-Leather-Country_%5B6563%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Torebka-Leather-Country_%5B6564%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Torebka-Leather-Country_%5B6551%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Torebka-Leather-Country_%5B6565%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Torebka-Leather-Country_%5B6566%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Torebka-Leather-Country_%5B6567%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-Leather-Country_%5B2755%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-Leather-Country_%5B2756%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-Leather-Country_%5B2757%5D_1200.jpg</g:additional_image_link>
       <g:color>Szary</g:color>
+      <g:age_group>adult</g:age_group>
+      <g:gender>female</g:gender>
+      <g:custom_label_0>other</g:custom_label_0>
+    </item>
+    <item>
+      <title>Torebka Leather Country</title>
+      <description>Kompaktowa torebka na ramię z gładkiej skóry naturalnej w ciepłym odcieniu karmelu. Złote okucia i regulowany pasek z dodatkową rączką do noszenia w dłoni.</description>
+      <link>https://www.italy-shop.eu/Torebka-Leather-Country-p250</link>
+      <g:id>250_59</g:id>
+      <g:item_group_id>250</g:item_group_id>
+      <g:price>460.00 PLN</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Leather Country</g:brand>
+      <g:google_product_category>3032</g:google_product_category>
+      <g:product_type>Torebki</g:product_type>
+      <g:image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-Leather-Country_%5B2754%5D_1200.jpg</g:image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Torebka-Leather-Country_%5B6562%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Torebka-Leather-Country_%5B6563%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Torebka-Leather-Country_%5B6564%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Torebka-Leather-Country_%5B6551%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Torebka-Leather-Country_%5B6565%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Torebka-Leather-Country_%5B6566%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Torebka-Leather-Country_%5B6567%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-Leather-Country_%5B2755%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-Leather-Country_%5B2756%5D_1200.jpg</g:additional_image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-Leather-Country_%5B2757%5D_1200.jpg</g:additional_image_link>
+      <g:color>Karmel</g:color>
       <g:age_group>adult</g:age_group>
       <g:gender>female</g:gender>
       <g:custom_label_0>other</g:custom_label_0>
@@ -10922,6 +10952,8 @@
       <g:id>399_72_40</g:id>
       <g:item_group_id>399</g:item_group_id>
       <g:price>1290.00 PLN</g:price>
+      <g:sale_price>1161.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-07-24T00:00:00+02:00/2026-07-31T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -10950,6 +10982,8 @@
       <g:id>399_72_41</g:id>
       <g:item_group_id>399</g:item_group_id>
       <g:price>1290.00 PLN</g:price>
+      <g:sale_price>1161.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-07-24T00:00:00+02:00/2026-07-31T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -10978,6 +11012,8 @@
       <g:id>399_72_42</g:id>
       <g:item_group_id>399</g:item_group_id>
       <g:price>1290.00 PLN</g:price>
+      <g:sale_price>1161.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-07-24T00:00:00+02:00/2026-07-31T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -11006,6 +11042,8 @@
       <g:id>399_72_43</g:id>
       <g:item_group_id>399</g:item_group_id>
       <g:price>1290.00 PLN</g:price>
+      <g:sale_price>1161.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-07-24T00:00:00+02:00/2026-07-31T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -11034,6 +11072,8 @@
       <g:id>399_72_44</g:id>
       <g:item_group_id>399</g:item_group_id>
       <g:price>1290.00 PLN</g:price>
+      <g:sale_price>1161.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-07-24T00:00:00+02:00/2026-07-31T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
