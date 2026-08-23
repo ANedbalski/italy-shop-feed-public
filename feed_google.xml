@@ -4029,8 +4029,6 @@
       <g:id>225_52_75</g:id>
       <g:item_group_id>225</g:item_group_id>
       <g:price>460.00 PLN</g:price>
-      <g:sale_price>414.00 PLN</g:sale_price>
-      <g:sale_price_effective_date>2026-08-19T00:00:00+02:00/2026-08-23T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Leather Country</g:brand>
@@ -4061,8 +4059,6 @@
       <g:id>225_56_75</g:id>
       <g:item_group_id>225</g:item_group_id>
       <g:price>460.00 PLN</g:price>
-      <g:sale_price>414.00 PLN</g:sale_price>
-      <g:sale_price_effective_date>2026-08-19T00:00:00+02:00/2026-08-23T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Leather Country</g:brand>
@@ -4093,8 +4089,6 @@
       <g:id>225_59_75</g:id>
       <g:item_group_id>225</g:item_group_id>
       <g:price>460.00 PLN</g:price>
-      <g:sale_price>414.00 PLN</g:sale_price>
-      <g:sale_price_effective_date>2026-08-19T00:00:00+02:00/2026-08-23T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Leather Country</g:brand>
@@ -4125,8 +4119,6 @@
       <g:id>225_65_75</g:id>
       <g:item_group_id>225</g:item_group_id>
       <g:price>460.00 PLN</g:price>
-      <g:sale_price>414.00 PLN</g:sale_price>
-      <g:sale_price_effective_date>2026-08-19T00:00:00+02:00/2026-08-23T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Leather Country</g:brand>
@@ -4157,8 +4149,6 @@
       <g:id>225_68_75</g:id>
       <g:item_group_id>225</g:item_group_id>
       <g:price>460.00 PLN</g:price>
-      <g:sale_price>414.00 PLN</g:sale_price>
-      <g:sale_price_effective_date>2026-08-19T00:00:00+02:00/2026-08-23T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Leather Country</g:brand>
@@ -4189,8 +4179,6 @@
       <g:id>225_72_75</g:id>
       <g:item_group_id>225</g:item_group_id>
       <g:price>460.00 PLN</g:price>
-      <g:sale_price>414.00 PLN</g:sale_price>
-      <g:sale_price_effective_date>2026-08-19T00:00:00+02:00/2026-08-23T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Leather Country</g:brand>
@@ -7432,6 +7420,8 @@
       <g:id>245_45</g:id>
       <g:item_group_id>245</g:item_group_id>
       <g:price>479.00 PLN</g:price>
+      <g:sale_price>431.10 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-08-23T00:00:00+02:00/2026-08-29T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Leather Country</g:brand>
@@ -7460,6 +7450,8 @@
       <g:id>245_48</g:id>
       <g:item_group_id>245</g:item_group_id>
       <g:price>479.00 PLN</g:price>
+      <g:sale_price>431.10 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-08-23T00:00:00+02:00/2026-08-29T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Leather Country</g:brand>
@@ -7488,6 +7480,8 @@
       <g:id>245_52</g:id>
       <g:item_group_id>245</g:item_group_id>
       <g:price>479.00 PLN</g:price>
+      <g:sale_price>431.10 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-08-23T00:00:00+02:00/2026-08-29T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Leather Country</g:brand>
@@ -7516,6 +7510,8 @@
       <g:id>245_56</g:id>
       <g:item_group_id>245</g:item_group_id>
       <g:price>479.00 PLN</g:price>
+      <g:sale_price>431.10 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-08-23T00:00:00+02:00/2026-08-29T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Leather Country</g:brand>
@@ -7544,6 +7540,8 @@
       <g:id>245_59</g:id>
       <g:item_group_id>245</g:item_group_id>
       <g:price>479.00 PLN</g:price>
+      <g:sale_price>431.10 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-08-23T00:00:00+02:00/2026-08-29T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Leather Country</g:brand>
@@ -7572,6 +7570,8 @@
       <g:id>245_61</g:id>
       <g:item_group_id>245</g:item_group_id>
       <g:price>479.00 PLN</g:price>
+      <g:sale_price>431.10 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-08-23T00:00:00+02:00/2026-08-29T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Leather Country</g:brand>
@@ -7600,6 +7600,8 @@
       <g:id>245_64</g:id>
       <g:item_group_id>245</g:item_group_id>
       <g:price>479.00 PLN</g:price>
+      <g:sale_price>431.10 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-08-23T00:00:00+02:00/2026-08-29T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Leather Country</g:brand>
@@ -7628,6 +7630,8 @@
       <g:id>245_66</g:id>
       <g:item_group_id>245</g:item_group_id>
       <g:price>479.00 PLN</g:price>
+      <g:sale_price>431.10 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-08-23T00:00:00+02:00/2026-08-29T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Leather Country</g:brand>
@@ -7656,6 +7660,8 @@
       <g:id>245_82</g:id>
       <g:item_group_id>245</g:item_group_id>
       <g:price>479.00 PLN</g:price>
+      <g:sale_price>431.10 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-08-23T00:00:00+02:00/2026-08-29T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Leather Country</g:brand>
@@ -7684,6 +7690,8 @@
       <g:id>245_84</g:id>
       <g:item_group_id>245</g:item_group_id>
       <g:price>479.00 PLN</g:price>
+      <g:sale_price>431.10 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-08-23T00:00:00+02:00/2026-08-29T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Leather Country</g:brand>
