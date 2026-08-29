@@ -7266,8 +7266,6 @@
       <g:id>245_45</g:id>
       <g:item_group_id>245</g:item_group_id>
       <g:price>479.00 PLN</g:price>
-      <g:sale_price>431.10 PLN</g:sale_price>
-      <g:sale_price_effective_date>2026-08-23T00:00:00+02:00/2026-08-29T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Leather Country</g:brand>
@@ -7296,8 +7294,6 @@
       <g:id>245_48</g:id>
       <g:item_group_id>245</g:item_group_id>
       <g:price>479.00 PLN</g:price>
-      <g:sale_price>431.10 PLN</g:sale_price>
-      <g:sale_price_effective_date>2026-08-23T00:00:00+02:00/2026-08-29T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Leather Country</g:brand>
@@ -7326,8 +7322,6 @@
       <g:id>245_52</g:id>
       <g:item_group_id>245</g:item_group_id>
       <g:price>479.00 PLN</g:price>
-      <g:sale_price>431.10 PLN</g:sale_price>
-      <g:sale_price_effective_date>2026-08-23T00:00:00+02:00/2026-08-29T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Leather Country</g:brand>
@@ -7356,8 +7350,6 @@
       <g:id>245_56</g:id>
       <g:item_group_id>245</g:item_group_id>
       <g:price>479.00 PLN</g:price>
-      <g:sale_price>431.10 PLN</g:sale_price>
-      <g:sale_price_effective_date>2026-08-23T00:00:00+02:00/2026-08-29T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Leather Country</g:brand>
@@ -7386,8 +7378,6 @@
       <g:id>245_59</g:id>
       <g:item_group_id>245</g:item_group_id>
       <g:price>479.00 PLN</g:price>
-      <g:sale_price>431.10 PLN</g:sale_price>
-      <g:sale_price_effective_date>2026-08-23T00:00:00+02:00/2026-08-29T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Leather Country</g:brand>
@@ -7416,8 +7406,6 @@
       <g:id>245_61</g:id>
       <g:item_group_id>245</g:item_group_id>
       <g:price>479.00 PLN</g:price>
-      <g:sale_price>431.10 PLN</g:sale_price>
-      <g:sale_price_effective_date>2026-08-23T00:00:00+02:00/2026-08-29T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Leather Country</g:brand>
@@ -7446,8 +7434,6 @@
       <g:id>245_64</g:id>
       <g:item_group_id>245</g:item_group_id>
       <g:price>479.00 PLN</g:price>
-      <g:sale_price>431.10 PLN</g:sale_price>
-      <g:sale_price_effective_date>2026-08-23T00:00:00+02:00/2026-08-29T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Leather Country</g:brand>
@@ -7476,8 +7462,6 @@
       <g:id>245_66</g:id>
       <g:item_group_id>245</g:item_group_id>
       <g:price>479.00 PLN</g:price>
-      <g:sale_price>431.10 PLN</g:sale_price>
-      <g:sale_price_effective_date>2026-08-23T00:00:00+02:00/2026-08-29T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Leather Country</g:brand>
@@ -7506,8 +7490,6 @@
       <g:id>245_82</g:id>
       <g:item_group_id>245</g:item_group_id>
       <g:price>479.00 PLN</g:price>
-      <g:sale_price>431.10 PLN</g:sale_price>
-      <g:sale_price_effective_date>2026-08-23T00:00:00+02:00/2026-08-29T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Leather Country</g:brand>
@@ -7536,8 +7518,6 @@
       <g:id>245_84</g:id>
       <g:item_group_id>245</g:item_group_id>
       <g:price>479.00 PLN</g:price>
-      <g:sale_price>431.10 PLN</g:sale_price>
-      <g:sale_price_effective_date>2026-08-23T00:00:00+02:00/2026-08-29T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Leather Country</g:brand>
@@ -11902,7 +11882,8 @@
       <g:brand>Lestrosa</g:brand>
       <g:google_product_category>187</g:google_product_category>
       <g:product_type>Obuwie</g:product_type>
-      <g:image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Zamszowe-kozaki-Lestrosa-Ambra-taupe_%5B6708%5D_1200.jpg</g:image_link>
+      <g:image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Zamszowe-kozaki-Lestrosa-Ambra-taupe_%5B6964%5D_1200.jpg</g:image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Zamszowe-kozaki-Lestrosa-Ambra-taupe_%5B6708%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Zamszowe-kozaki-Lestrosa-Ambra-taupe_%5B6709%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Zamszowe-kozaki-Lestrosa-Ambra-taupe_%5B6710%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Zamszowe-kozaki-Lestrosa-Ambra-taupe_%5B6711%5D_1200.jpg</g:additional_image_link>
@@ -11931,7 +11912,8 @@
       <g:brand>Lestrosa</g:brand>
       <g:google_product_category>187</g:google_product_category>
       <g:product_type>Obuwie</g:product_type>
-      <g:image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Zamszowe-kozaki-Lestrosa-Ambra-taupe_%5B6708%5D_1200.jpg</g:image_link>
+      <g:image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Zamszowe-kozaki-Lestrosa-Ambra-taupe_%5B6964%5D_1200.jpg</g:image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Zamszowe-kozaki-Lestrosa-Ambra-taupe_%5B6708%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Zamszowe-kozaki-Lestrosa-Ambra-taupe_%5B6709%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Zamszowe-kozaki-Lestrosa-Ambra-taupe_%5B6710%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Zamszowe-kozaki-Lestrosa-Ambra-taupe_%5B6711%5D_1200.jpg</g:additional_image_link>
@@ -11960,7 +11942,8 @@
       <g:brand>Lestrosa</g:brand>
       <g:google_product_category>187</g:google_product_category>
       <g:product_type>Obuwie</g:product_type>
-      <g:image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Zamszowe-kozaki-Lestrosa-Ambra-taupe_%5B6708%5D_1200.jpg</g:image_link>
+      <g:image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Zamszowe-kozaki-Lestrosa-Ambra-taupe_%5B6964%5D_1200.jpg</g:image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Zamszowe-kozaki-Lestrosa-Ambra-taupe_%5B6708%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Zamszowe-kozaki-Lestrosa-Ambra-taupe_%5B6709%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Zamszowe-kozaki-Lestrosa-Ambra-taupe_%5B6710%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Zamszowe-kozaki-Lestrosa-Ambra-taupe_%5B6711%5D_1200.jpg</g:additional_image_link>
@@ -11989,7 +11972,8 @@
       <g:brand>Lestrosa</g:brand>
       <g:google_product_category>187</g:google_product_category>
       <g:product_type>Obuwie</g:product_type>
-      <g:image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Zamszowe-kozaki-Lestrosa-Ambra-taupe_%5B6708%5D_1200.jpg</g:image_link>
+      <g:image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Zamszowe-kozaki-Lestrosa-Ambra-taupe_%5B6964%5D_1200.jpg</g:image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Zamszowe-kozaki-Lestrosa-Ambra-taupe_%5B6708%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Zamszowe-kozaki-Lestrosa-Ambra-taupe_%5B6709%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Zamszowe-kozaki-Lestrosa-Ambra-taupe_%5B6710%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Zamszowe-kozaki-Lestrosa-Ambra-taupe_%5B6711%5D_1200.jpg</g:additional_image_link>
@@ -12018,7 +12002,8 @@
       <g:brand>Lestrosa</g:brand>
       <g:google_product_category>187</g:google_product_category>
       <g:product_type>Obuwie</g:product_type>
-      <g:image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Zamszowe-kozaki-Lestrosa-Ambra-taupe_%5B6708%5D_1200.jpg</g:image_link>
+      <g:image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Zamszowe-kozaki-Lestrosa-Ambra-taupe_%5B6964%5D_1200.jpg</g:image_link>
+      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Zamszowe-kozaki-Lestrosa-Ambra-taupe_%5B6708%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Zamszowe-kozaki-Lestrosa-Ambra-taupe_%5B6709%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Zamszowe-kozaki-Lestrosa-Ambra-taupe_%5B6710%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Zamszowe-kozaki-Lestrosa-Ambra-taupe_%5B6711%5D_1200.jpg</g:additional_image_link>
