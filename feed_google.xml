@@ -4554,6 +4554,8 @@
       <g:id>401_52_40</g:id>
       <g:item_group_id>401</g:item_group_id>
       <g:price>1250.00 PLN</g:price>
+      <g:sale_price>1125.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-09-22T00:00:00+02:00/2026-09-26T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -4589,6 +4591,8 @@
       <g:id>401_52_41</g:id>
       <g:item_group_id>401</g:item_group_id>
       <g:price>1250.00 PLN</g:price>
+      <g:sale_price>1125.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-09-22T00:00:00+02:00/2026-09-26T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -4624,6 +4628,8 @@
       <g:id>401_52_42</g:id>
       <g:item_group_id>401</g:item_group_id>
       <g:price>1250.00 PLN</g:price>
+      <g:sale_price>1125.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-09-22T00:00:00+02:00/2026-09-26T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -4659,6 +4665,8 @@
       <g:id>401_52_43</g:id>
       <g:item_group_id>401</g:item_group_id>
       <g:price>1250.00 PLN</g:price>
+      <g:sale_price>1125.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-09-22T00:00:00+02:00/2026-09-26T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -7620,84 +7628,6 @@
       <g:age_group>adult</g:age_group>
       <g:gender>female</g:gender>
       <g:material>Zamsz</g:material>
-      <g:custom_label_0>other</g:custom_label_0>
-    </item>
-    <item>
-      <title>Torebka Estate</title>
-      <description>Shopper z miękkiej skóry naturalnej i tkaniny w odcieniu beżu. Klasyczna forma z regulowanymi paskami, która nie wychodzi z mody.</description>
-      <link>https://www.italy-shop.eu/Torebka-Estate-p137</link>
-      <g:id>137_45</g:id>
-      <g:item_group_id>137</g:item_group_id>
-      <g:price>589.00 PLN</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Leather Country</g:brand>
-      <g:google_product_category>3032</g:google_product_category>
-      <g:product_type>Torebki</g:product_type>
-      <g:image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-Estate_%5B2892%5D_1200.jpg</g:image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-Estate_%5B2887%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-Estate_%5B2888%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-Estate_%5B2889%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-Estate_%5B2890%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-Estate_%5B2891%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-Estate_%5B2892%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-Estate_%5B2893%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-Estate_%5B2894%5D_1200.jpg</g:additional_image_link>
-      <g:color>Czarny</g:color>
-      <g:age_group>adult</g:age_group>
-      <g:gender>female</g:gender>
-      <g:custom_label_0>other</g:custom_label_0>
-    </item>
-    <item>
-      <title>Torebka Estate</title>
-      <description>Shopper z miękkiej skóry naturalnej i tkaniny w odcieniu beżu. Klasyczna forma z regulowanymi paskami, która nie wychodzi z mody.</description>
-      <link>https://www.italy-shop.eu/Torebka-Estate-p137</link>
-      <g:id>137_47</g:id>
-      <g:item_group_id>137</g:item_group_id>
-      <g:price>589.00 PLN</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Leather Country</g:brand>
-      <g:google_product_category>3032</g:google_product_category>
-      <g:product_type>Torebki</g:product_type>
-      <g:image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-Estate_%5B2887%5D_1200.jpg</g:image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-Estate_%5B2887%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-Estate_%5B2888%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-Estate_%5B2889%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-Estate_%5B2890%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-Estate_%5B2891%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-Estate_%5B2892%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-Estate_%5B2893%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-Estate_%5B2894%5D_1200.jpg</g:additional_image_link>
-      <g:color>Beżowy</g:color>
-      <g:age_group>adult</g:age_group>
-      <g:gender>female</g:gender>
-      <g:custom_label_0>other</g:custom_label_0>
-    </item>
-    <item>
-      <title>Torebka Estate</title>
-      <description>Shopper z miękkiej skóry naturalnej i tkaniny w odcieniu beżu. Klasyczna forma z regulowanymi paskami, która nie wychodzi z mody.</description>
-      <link>https://www.italy-shop.eu/Torebka-Estate-p137</link>
-      <g:id>137_52</g:id>
-      <g:item_group_id>137</g:item_group_id>
-      <g:price>589.00 PLN</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Leather Country</g:brand>
-      <g:google_product_category>3032</g:google_product_category>
-      <g:product_type>Torebki</g:product_type>
-      <g:image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-Estate_%5B2894%5D_1200.jpg</g:image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-Estate_%5B2887%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-Estate_%5B2888%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-Estate_%5B2889%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-Estate_%5B2890%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-Estate_%5B2891%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-Estate_%5B2892%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-Estate_%5B2893%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-Estate_%5B2894%5D_1200.jpg</g:additional_image_link>
-      <g:color>Brązowy</g:color>
-      <g:age_group>adult</g:age_group>
-      <g:gender>female</g:gender>
       <g:custom_label_0>other</g:custom_label_0>
     </item>
     <item>
@@ -11630,34 +11560,6 @@
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-zamszowa_%5B2534%5D_1200.jpg</g:additional_image_link>
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-zamszowa_%5B2598%5D_1200.jpg</g:additional_image_link>
       <g:color>Brązowy</g:color>
-      <g:age_group>adult</g:age_group>
-      <g:gender>female</g:gender>
-      <g:custom_label_0>other</g:custom_label_0>
-    </item>
-    <item>
-      <title>Torebka zamszowa</title>
-      <description>Shopperka z naturalnej skóry zamszowej o matowej, aksamitnej fakturze. Pojemny fason z podwójnymi uchwytami i regulowanym paskiem na ramię. Klasyczny kształt który komponuje się ze wszystkimi stylizacjami.</description>
-      <link>https://www.italy-shop.eu/Torebka-zamszowa-p205</link>
-      <g:id>205_58</g:id>
-      <g:item_group_id>205</g:item_group_id>
-      <g:price>580.00 PLN</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Leather Country</g:brand>
-      <g:google_product_category>3032</g:google_product_category>
-      <g:product_type>Torebki</g:product_type>
-      <g:image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-zamszowa_%5B2528%5D_1200.jpg</g:image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-zamszowa_%5B2526%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-zamszowa_%5B2527%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-zamszowa_%5B2528%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-zamszowa_%5B2529%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-zamszowa_%5B2530%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-zamszowa_%5B2531%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-zamszowa_%5B2532%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-zamszowa_%5B2533%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-zamszowa_%5B2534%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/2000-3000/Torebka-zamszowa_%5B2598%5D_1200.jpg</g:additional_image_link>
-      <g:color>Szary</g:color>
       <g:age_group>adult</g:age_group>
       <g:gender>female</g:gender>
       <g:custom_label_0>other</g:custom_label_0>
