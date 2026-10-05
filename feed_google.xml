@@ -1593,6 +1593,8 @@
       <g:id>456_45</g:id>
       <g:item_group_id>456</g:item_group_id>
       <g:price>590.00 PLN</g:price>
+      <g:sale_price>531.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-10-05T00:00:00+02:00/2026-10-10T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Leather Country</g:brand>
@@ -1626,6 +1628,8 @@
       <g:id>456_47</g:id>
       <g:item_group_id>456</g:item_group_id>
       <g:price>590.00 PLN</g:price>
+      <g:sale_price>531.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-10-05T00:00:00+02:00/2026-10-10T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Leather Country</g:brand>
@@ -1659,6 +1663,8 @@
       <g:id>456_52</g:id>
       <g:item_group_id>456</g:item_group_id>
       <g:price>590.00 PLN</g:price>
+      <g:sale_price>531.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-10-05T00:00:00+02:00/2026-10-10T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Leather Country</g:brand>
@@ -1692,6 +1698,8 @@
       <g:id>456_56</g:id>
       <g:item_group_id>456</g:item_group_id>
       <g:price>590.00 PLN</g:price>
+      <g:sale_price>531.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-10-05T00:00:00+02:00/2026-10-10T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Leather Country</g:brand>
@@ -1725,6 +1733,8 @@
       <g:id>456_59</g:id>
       <g:item_group_id>456</g:item_group_id>
       <g:price>590.00 PLN</g:price>
+      <g:sale_price>531.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-10-05T00:00:00+02:00/2026-10-10T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Leather Country</g:brand>
@@ -4548,41 +4558,6 @@
       <g:custom_label_0>jesen</g:custom_label_0>
     </item>
     <item>
-      <title>Skórzane kozaki Lestrosa na platformie — brązowe</title>
-      <description>Skórzane kozaki Lestrosa w brązie na traktorowej platformie. Ziarnista skóra, wysoka cholewka, okrągły nosek.</description>
-      <link>https://www.italy-shop.eu/Skorzane-kozaki-Lestrosa-na-platformie-brazowe-p401</link>
-      <g:id>401_52_44</g:id>
-      <g:item_group_id>401</g:item_group_id>
-      <g:price>1250.00 PLN</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Lestrosa</g:brand>
-      <g:google_product_category>187</g:google_product_category>
-      <g:product_type>Obuwie</g:product_type>
-      <g:image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Skorzane-kozaki-Lestrosa-na-platformie-brazowe_%5B6949%5D_1200.jpg</g:image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/7000-8000/Skorzane-kozaki-Lestrosa-na-platformie-brazowe_%5B7130%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/7000-8000/Skorzane-kozaki-Lestrosa-na-platformie-brazowe_%5B7131%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Skorzane-kozaki-Lestrosa-na-platformie-brazowe_%5B6950%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Skorzane-kozaki-Lestrosa-na-platformie-brazowe_%5B6951%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/7000-8000/Skorzane-kozaki-Lestrosa-na-platformie-brazowe_%5B7132%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Skorzane-kozaki-Lestrosa-na-platformie-brazowe_%5B6952%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Skorzane-kozaki-Lestrosa-na-platformie-brazowe_%5B6953%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Skorzane-kozaki-Lestrosa-na-platformie-brazowe_%5B6954%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Skorzane-kozaki-Lestrosa-na-platformie-brazowe_%5B6715%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/7000-8000/Skorzane-kozaki-Lestrosa-na-platformie-brazowe_%5B7008%5D_1200.jpg</g:additional_image_link>
-      <g:color>Brązowy</g:color>
-      <g:size>40</g:size>
-      <g:age_group>adult</g:age_group>
-      <g:gender>female</g:gender>
-      <g:material>Skóra groszkowa</g:material>
-      <g:product_highlight>Ziarnista skóra naturalna z Włoch</g:product_highlight>
-      <g:product_highlight>Masywna, traktorowa podeszwa</g:product_highlight>
-      <g:product_highlight>Wysoka cholewka do kolana</g:product_highlight>
-      <g:product_highlight>Ręczne wykończenie, Made in Italy</g:product_highlight>
-      <g:product_highlight>Do sukienki i jeansów</g:product_highlight>
-      <g:custom_label_0>jesen</g:custom_label_0>
-    </item>
-    <item>
       <title>Skórzane kozaki Lestrosa na platformie — cappuccino</title>
       <description>Skórzane kozaki Lestrosa w cappuccino na traktorowej platformie. Ziarnista skóra, wysoka cholewka, okrągły nosek.</description>
       <link>https://www.italy-shop.eu/Skorzane-kozaki-Lestrosa-na-platformie-cappuccino-p402</link>
@@ -4721,8 +4696,6 @@
       <g:id>400_45_40</g:id>
       <g:item_group_id>400</g:item_group_id>
       <g:price>1250.00 PLN</g:price>
-      <g:sale_price>1125.00 PLN</g:sale_price>
-      <g:sale_price_effective_date>2026-10-02T00:00:00+02:00/2026-10-05T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -4758,8 +4731,6 @@
       <g:id>400_45_41</g:id>
       <g:item_group_id>400</g:item_group_id>
       <g:price>1250.00 PLN</g:price>
-      <g:sale_price>1125.00 PLN</g:sale_price>
-      <g:sale_price_effective_date>2026-10-02T00:00:00+02:00/2026-10-05T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -4795,8 +4766,6 @@
       <g:id>400_45_42</g:id>
       <g:item_group_id>400</g:item_group_id>
       <g:price>1250.00 PLN</g:price>
-      <g:sale_price>1125.00 PLN</g:sale_price>
-      <g:sale_price_effective_date>2026-10-02T00:00:00+02:00/2026-10-05T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -4832,8 +4801,6 @@
       <g:id>400_45_43</g:id>
       <g:item_group_id>400</g:item_group_id>
       <g:price>1250.00 PLN</g:price>
-      <g:sale_price>1125.00 PLN</g:sale_price>
-      <g:sale_price_effective_date>2026-10-02T00:00:00+02:00/2026-10-05T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -4869,8 +4836,6 @@
       <g:id>400_45_44</g:id>
       <g:item_group_id>400</g:item_group_id>
       <g:price>1250.00 PLN</g:price>
-      <g:sale_price>1125.00 PLN</g:sale_price>
-      <g:sale_price_effective_date>2026-10-02T00:00:00+02:00/2026-10-05T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -5221,6 +5186,8 @@
       <g:id>410_45_40</g:id>
       <g:item_group_id>410</g:item_group_id>
       <g:price>1200.00 PLN</g:price>
+      <g:sale_price>1080.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-10-05T00:00:00+02:00/2026-10-10T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -5249,6 +5216,8 @@
       <g:id>410_45_41</g:id>
       <g:item_group_id>410</g:item_group_id>
       <g:price>1200.00 PLN</g:price>
+      <g:sale_price>1080.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-10-05T00:00:00+02:00/2026-10-10T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -5277,6 +5246,8 @@
       <g:id>410_45_42</g:id>
       <g:item_group_id>410</g:item_group_id>
       <g:price>1200.00 PLN</g:price>
+      <g:sale_price>1080.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-10-05T00:00:00+02:00/2026-10-10T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -5305,6 +5276,8 @@
       <g:id>410_45_43</g:id>
       <g:item_group_id>410</g:item_group_id>
       <g:price>1200.00 PLN</g:price>
+      <g:sale_price>1080.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-10-05T00:00:00+02:00/2026-10-10T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -5333,6 +5306,8 @@
       <g:id>410_45_44</g:id>
       <g:item_group_id>410</g:item_group_id>
       <g:price>1200.00 PLN</g:price>
+      <g:sale_price>1080.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-10-05T00:00:00+02:00/2026-10-10T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -6599,8 +6574,8 @@
       <description>Skórzany komplet w brązie: kozaki Wiola do kolana i pleciona kopertówka. Razem taniej niż osobno.</description>
       <link>https://www.italy-shop.eu/Skorzany-komplet-kozaki-Wiola-i-pleciona-kopertowka-braz-p425</link>
       <g:id>425</g:id>
-      <g:price>1679.00 PLN</g:price>
-      <g:sale_price>1511.10 PLN</g:sale_price>
+      <g:price>1631.10 PLN</g:price>
+      <g:sale_price>1467.99 PLN</g:sale_price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -7636,6 +7611,8 @@
       <g:id>427_52</g:id>
       <g:item_group_id>427</g:item_group_id>
       <g:price>479.00 PLN</g:price>
+      <g:sale_price>431.10 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-10-05T00:00:00+02:00/2026-10-10T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Leather Country</g:brand>
