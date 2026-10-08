@@ -5291,6 +5291,8 @@
       <g:id>396_52_40</g:id>
       <g:item_group_id>396</g:item_group_id>
       <g:price>1200.00 PLN</g:price>
+      <g:sale_price>1080.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-10-07T00:00:00+02:00/2026-10-11T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -5326,6 +5328,8 @@
       <g:id>396_52_41</g:id>
       <g:item_group_id>396</g:item_group_id>
       <g:price>1200.00 PLN</g:price>
+      <g:sale_price>1080.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-10-07T00:00:00+02:00/2026-10-11T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -5361,6 +5365,8 @@
       <g:id>396_52_42</g:id>
       <g:item_group_id>396</g:item_group_id>
       <g:price>1200.00 PLN</g:price>
+      <g:sale_price>1080.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-10-07T00:00:00+02:00/2026-10-11T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -5396,6 +5402,8 @@
       <g:id>396_52_43</g:id>
       <g:item_group_id>396</g:item_group_id>
       <g:price>1200.00 PLN</g:price>
+      <g:sale_price>1080.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-10-07T00:00:00+02:00/2026-10-11T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -5431,6 +5439,8 @@
       <g:id>396_52_44</g:id>
       <g:item_group_id>396</g:item_group_id>
       <g:price>1200.00 PLN</g:price>
+      <g:sale_price>1080.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-10-07T00:00:00+02:00/2026-10-11T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -5466,8 +5476,6 @@
       <g:id>410_45_40</g:id>
       <g:item_group_id>410</g:item_group_id>
       <g:price>1200.00 PLN</g:price>
-      <g:sale_price>1080.00 PLN</g:sale_price>
-      <g:sale_price_effective_date>2026-10-05T00:00:00+02:00/2026-10-10T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -5496,8 +5504,6 @@
       <g:id>410_45_41</g:id>
       <g:item_group_id>410</g:item_group_id>
       <g:price>1200.00 PLN</g:price>
-      <g:sale_price>1080.00 PLN</g:sale_price>
-      <g:sale_price_effective_date>2026-10-05T00:00:00+02:00/2026-10-10T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -5526,8 +5532,6 @@
       <g:id>410_45_42</g:id>
       <g:item_group_id>410</g:item_group_id>
       <g:price>1200.00 PLN</g:price>
-      <g:sale_price>1080.00 PLN</g:sale_price>
-      <g:sale_price_effective_date>2026-10-05T00:00:00+02:00/2026-10-10T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -5556,8 +5560,6 @@
       <g:id>410_45_43</g:id>
       <g:item_group_id>410</g:item_group_id>
       <g:price>1200.00 PLN</g:price>
-      <g:sale_price>1080.00 PLN</g:sale_price>
-      <g:sale_price_effective_date>2026-10-05T00:00:00+02:00/2026-10-10T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -5586,8 +5588,6 @@
       <g:id>410_45_44</g:id>
       <g:item_group_id>410</g:item_group_id>
       <g:price>1200.00 PLN</g:price>
-      <g:sale_price>1080.00 PLN</g:sale_price>
-      <g:sale_price_effective_date>2026-10-05T00:00:00+02:00/2026-10-10T00:00:00+02:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -6854,8 +6854,8 @@
       <description>Skórzany komplet w brązie: kozaki Wiola do kolana i pleciona kopertówka. Razem taniej niż osobno.</description>
       <link>https://www.italy-shop.eu/Skorzany-komplet-kozaki-Wiola-i-pleciona-kopertowka-braz-p425</link>
       <g:id>425</g:id>
-      <g:price>1631.10 PLN</g:price>
-      <g:sale_price>1467.99 PLN</g:sale_price>
+      <g:price>1511.10 PLN</g:price>
+      <g:sale_price>1359.99 PLN</g:sale_price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
