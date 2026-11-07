@@ -3123,8 +3123,6 @@
       <g:id>437_52_40</g:id>
       <g:item_group_id>437</g:item_group_id>
       <g:price>1090.00 PLN</g:price>
-      <g:sale_price>981.00 PLN</g:sale_price>
-      <g:sale_price_effective_date>2026-11-02T00:00:00+01:00/2026-11-07T00:00:00+01:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -3153,8 +3151,6 @@
       <g:id>437_52_41</g:id>
       <g:item_group_id>437</g:item_group_id>
       <g:price>1090.00 PLN</g:price>
-      <g:sale_price>981.00 PLN</g:sale_price>
-      <g:sale_price_effective_date>2026-11-02T00:00:00+01:00/2026-11-07T00:00:00+01:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -3183,8 +3179,6 @@
       <g:id>437_52_42</g:id>
       <g:item_group_id>437</g:item_group_id>
       <g:price>1090.00 PLN</g:price>
-      <g:sale_price>981.00 PLN</g:sale_price>
-      <g:sale_price_effective_date>2026-11-02T00:00:00+01:00/2026-11-07T00:00:00+01:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -3213,8 +3207,6 @@
       <g:id>437_52_43</g:id>
       <g:item_group_id>437</g:item_group_id>
       <g:price>1090.00 PLN</g:price>
-      <g:sale_price>981.00 PLN</g:sale_price>
-      <g:sale_price_effective_date>2026-11-02T00:00:00+01:00/2026-11-07T00:00:00+01:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -3243,8 +3235,6 @@
       <g:id>437_52_44</g:id>
       <g:item_group_id>437</g:item_group_id>
       <g:price>1090.00 PLN</g:price>
-      <g:sale_price>981.00 PLN</g:sale_price>
-      <g:sale_price_effective_date>2026-11-02T00:00:00+01:00/2026-11-07T00:00:00+01:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -3848,6 +3838,8 @@
       <g:id>397_45_40</g:id>
       <g:item_group_id>397</g:item_group_id>
       <g:price>1090.00 PLN</g:price>
+      <g:sale_price>981.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-11-06T00:00:00+01:00/2026-11-12T00:00:00+01:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -3876,6 +3868,8 @@
       <g:id>397_45_41</g:id>
       <g:item_group_id>397</g:item_group_id>
       <g:price>1090.00 PLN</g:price>
+      <g:sale_price>981.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-11-06T00:00:00+01:00/2026-11-12T00:00:00+01:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -3904,6 +3898,8 @@
       <g:id>397_45_42</g:id>
       <g:item_group_id>397</g:item_group_id>
       <g:price>1090.00 PLN</g:price>
+      <g:sale_price>981.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-11-06T00:00:00+01:00/2026-11-12T00:00:00+01:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -3932,6 +3928,8 @@
       <g:id>397_45_43</g:id>
       <g:item_group_id>397</g:item_group_id>
       <g:price>1090.00 PLN</g:price>
+      <g:sale_price>981.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-11-06T00:00:00+01:00/2026-11-12T00:00:00+01:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -3960,6 +3958,8 @@
       <g:id>397_45_44</g:id>
       <g:item_group_id>397</g:item_group_id>
       <g:price>1090.00 PLN</g:price>
+      <g:sale_price>981.00 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-11-06T00:00:00+01:00/2026-11-12T00:00:00+01:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -17838,64 +17838,6 @@
       <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Zamszowe-kozaki-Spaziomoda-karmel_%5B6889%5D_1200.jpg</g:additional_image_link>
       <g:color>Karmel</g:color>
       <g:size>37</g:size>
-      <g:age_group>adult</g:age_group>
-      <g:gender>female</g:gender>
-      <g:material>Zamsz</g:material>
-      <g:product_highlight>Naturalny zamsz z Włoch</g:product_highlight>
-      <g:product_highlight>Wysoka cholewka do kolana</g:product_highlight>
-      <g:product_highlight>Wygodny obcas 4 cm</g:product_highlight>
-      <g:product_highlight>Boczny suwak</g:product_highlight>
-      <g:product_highlight>Ostry, wydłużony szpic</g:product_highlight>
-      <g:custom_label_0>jesen</g:custom_label_0>
-    </item>
-    <item>
-      <title>Zamszowe kozaki Spaziomoda — karmel</title>
-      <description>Zamszowe kozaki Spaziomoda w karmelu. Wysoka cholewka, ostry szpic, obcas 4 cm, boczny suwak.</description>
-      <link>https://www.italy-shop.eu/Zamszowe-kozaki-Spaziomoda-karmel-p413</link>
-      <g:id>413_59_42</g:id>
-      <g:item_group_id>413</g:item_group_id>
-      <g:price>1590.00 PLN</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Spaziomoda</g:brand>
-      <g:google_product_category>187</g:google_product_category>
-      <g:product_type>Obuwie</g:product_type>
-      <g:image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Zamszowe-kozaki-Spaziomoda-karmel_%5B6886%5D_1200.jpg</g:image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Zamszowe-kozaki-Spaziomoda-karmel_%5B6885%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Zamszowe-kozaki-Spaziomoda-karmel_%5B6887%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Zamszowe-kozaki-Spaziomoda-karmel_%5B6888%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Zamszowe-kozaki-Spaziomoda-karmel_%5B6889%5D_1200.jpg</g:additional_image_link>
-      <g:color>Karmel</g:color>
-      <g:size>38</g:size>
-      <g:age_group>adult</g:age_group>
-      <g:gender>female</g:gender>
-      <g:material>Zamsz</g:material>
-      <g:product_highlight>Naturalny zamsz z Włoch</g:product_highlight>
-      <g:product_highlight>Wysoka cholewka do kolana</g:product_highlight>
-      <g:product_highlight>Wygodny obcas 4 cm</g:product_highlight>
-      <g:product_highlight>Boczny suwak</g:product_highlight>
-      <g:product_highlight>Ostry, wydłużony szpic</g:product_highlight>
-      <g:custom_label_0>jesen</g:custom_label_0>
-    </item>
-    <item>
-      <title>Zamszowe kozaki Spaziomoda — karmel</title>
-      <description>Zamszowe kozaki Spaziomoda w karmelu. Wysoka cholewka, ostry szpic, obcas 4 cm, boczny suwak.</description>
-      <link>https://www.italy-shop.eu/Zamszowe-kozaki-Spaziomoda-karmel-p413</link>
-      <g:id>413_59_43</g:id>
-      <g:item_group_id>413</g:item_group_id>
-      <g:price>1590.00 PLN</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Spaziomoda</g:brand>
-      <g:google_product_category>187</g:google_product_category>
-      <g:product_type>Obuwie</g:product_type>
-      <g:image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Zamszowe-kozaki-Spaziomoda-karmel_%5B6886%5D_1200.jpg</g:image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Zamszowe-kozaki-Spaziomoda-karmel_%5B6885%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Zamszowe-kozaki-Spaziomoda-karmel_%5B6887%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Zamszowe-kozaki-Spaziomoda-karmel_%5B6888%5D_1200.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.italy-shop.eu/images/ly453/6000-7000/Zamszowe-kozaki-Spaziomoda-karmel_%5B6889%5D_1200.jpg</g:additional_image_link>
-      <g:color>Karmel</g:color>
-      <g:size>39</g:size>
       <g:age_group>adult</g:age_group>
       <g:gender>female</g:gender>
       <g:material>Zamsz</g:material>
