@@ -2731,8 +2731,6 @@
       <g:id>481_52_40</g:id>
       <g:item_group_id>481</g:item_group_id>
       <g:price>1120.00 PLN</g:price>
-      <g:sale_price>840.00 PLN</g:sale_price>
-      <g:sale_price_effective_date>2026-11-23T00:00:00+01:00/2026-11-28T00:00:00+01:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -2763,8 +2761,6 @@
       <g:id>481_52_41</g:id>
       <g:item_group_id>481</g:item_group_id>
       <g:price>1120.00 PLN</g:price>
-      <g:sale_price>840.00 PLN</g:sale_price>
-      <g:sale_price_effective_date>2026-11-23T00:00:00+01:00/2026-11-28T00:00:00+01:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -2795,8 +2791,6 @@
       <g:id>481_52_42</g:id>
       <g:item_group_id>481</g:item_group_id>
       <g:price>1120.00 PLN</g:price>
-      <g:sale_price>840.00 PLN</g:sale_price>
-      <g:sale_price_effective_date>2026-11-23T00:00:00+01:00/2026-11-28T00:00:00+01:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -2827,8 +2821,6 @@
       <g:id>481_52_43</g:id>
       <g:item_group_id>481</g:item_group_id>
       <g:price>1120.00 PLN</g:price>
-      <g:sale_price>840.00 PLN</g:sale_price>
-      <g:sale_price_effective_date>2026-11-23T00:00:00+01:00/2026-11-28T00:00:00+01:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -2859,8 +2851,6 @@
       <g:id>481_52_44</g:id>
       <g:item_group_id>481</g:item_group_id>
       <g:price>1120.00 PLN</g:price>
-      <g:sale_price>840.00 PLN</g:sale_price>
-      <g:sale_price_effective_date>2026-11-23T00:00:00+01:00/2026-11-28T00:00:00+01:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -15453,6 +15443,8 @@
       <g:id>394_59_40</g:id>
       <g:item_group_id>394</g:item_group_id>
       <g:price>1090.00 PLN</g:price>
+      <g:sale_price>926.50 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-11-27T00:00:00+01:00/2026-11-30T23:59:00+01:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -15480,6 +15472,8 @@
       <g:id>394_59_41</g:id>
       <g:item_group_id>394</g:item_group_id>
       <g:price>1090.00 PLN</g:price>
+      <g:sale_price>926.50 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-11-27T00:00:00+01:00/2026-11-30T23:59:00+01:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -15507,6 +15501,8 @@
       <g:id>394_59_42</g:id>
       <g:item_group_id>394</g:item_group_id>
       <g:price>1090.00 PLN</g:price>
+      <g:sale_price>926.50 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-11-27T00:00:00+01:00/2026-11-30T23:59:00+01:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -15534,6 +15530,8 @@
       <g:id>394_59_43</g:id>
       <g:item_group_id>394</g:item_group_id>
       <g:price>1090.00 PLN</g:price>
+      <g:sale_price>926.50 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-11-27T00:00:00+01:00/2026-11-30T23:59:00+01:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
@@ -15561,6 +15559,8 @@
       <g:id>394_59_44</g:id>
       <g:item_group_id>394</g:item_group_id>
       <g:price>1090.00 PLN</g:price>
+      <g:sale_price>926.50 PLN</g:sale_price>
+      <g:sale_price_effective_date>2026-11-27T00:00:00+01:00/2026-11-30T23:59:00+01:00</g:sale_price_effective_date>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Lestrosa</g:brand>
